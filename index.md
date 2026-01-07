@@ -161,13 +161,12 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 #### Technical Environment
 LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
 
-  ![BSc Certificate Scan](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)  
-  [Download copy of the Certificate](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
+  ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)  
+  [Download copy of the document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
 ---
 
 ### IT Support Engineer (Freelance)
-**Clients: Allianz, Enterprise, Mercedes-Benz**  
 **July 2020 – June 2022**
 
 #### Scope
@@ -218,6 +217,9 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 #### Impact
 Ensured operational reliability and cost-efficiency for enterprise infrastructure supporting thousands of employees and critical business operations.
 
+  ![document](documents/work_exp/exp_cert_Summit.pdf)  
+  [Download copy of the document](documents/work_exp/exp_cert_Summit.pdf)
+
 ---
 
 ### Assistant Engineer
@@ -234,6 +236,10 @@ Early-stage engineering role focused on R&D, technical design, and international
 - Maintained technical collaboration with international engineering partners
 - Supported system design and feasibility studies
 
+  ![document](documents/work_exp/exp_cert_EZZY.jpg)  
+  [Download copy of the document](documents/work_exp/exp_cert_EZZY.jpg)
+
+
 ---
 
 ### Intern
@@ -247,6 +253,9 @@ Hands-on exposure to electrical supply operations and distribution systems.
 - Assisted in operational tasks related to electrical distribution and maintenance
 - Gained practical knowledge of electrical infrastructure operations
 - Supported field operations and system monitoring
+
+  ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
+  [Download copy of the document](documents/work_exp/exp_cert_Desco_Intern.jpg)
 
 ---
 
@@ -269,6 +278,9 @@ Technical specialist role developing and deploying renewable energy and automati
 - Integrated renewable energy generation with practical agricultural application
 - Demonstrated sustainability and energy independence
 
+  ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
+  [Download copy of the document](documents/work_exp/exp_cert_E_Lab.jpg)
+
 ---
 
 ## Education
@@ -287,14 +299,17 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
 
+  ![document](documents/academic/MEng in Telecommuniation - Certificate.pdf)  
+  [Download copy of the document](documents/academic/MEng in Telecommuniation - Certificate.pdf)
+
 ### Bachelor of Science in Electrical & Electronic Engineering
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
 **2014**
 
 - **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
-  ![BSc Certificate Scan](documents/academic/BSc in EEE Certificate (1).pdf)  
-  [Download copy of the Certificate](documents/academic/BSc in EEE Certificate (1).pdf)
+  ![document](documents/academic/BSc in EEE Certificate (1).pdf)  
+  [Download copy of the document](documents/academic/BSc in EEE Certificate (1).pdf)
 
 ---
 
@@ -307,6 +322,10 @@ Technical specialist role developing and deploying renewable energy and automati
 - Comprehensive networking fundamentals and hands-on lab experience
 - TCP/IP protocol suite, LAN/WAN architecture, network troubleshooting
 - Industry-recognized credential validating professional networking competency
+
+  ![document](documents/online_course/CCNAv7.pdf)  
+  [Download copy of the document](documents/online_course/CCNAv7.pdf)
+
 
 **The Things Academy: Hands On with LoRaWAN®**  
 *Udemy, 2023*
