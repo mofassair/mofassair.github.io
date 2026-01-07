@@ -324,21 +324,30 @@ Technical specialist role developing and deploying renewable energy and automati
 - TCP/IP protocol suite, LAN/WAN architecture, network troubleshooting
 - Industry-recognized credential validating professional networking competency
 
+<!-- certificate and files -->
   ![document](documents/online_course/CCNAv7.jpg)  
   [Download copy of the document](documents/online_course/CCNAv7.pdf)
-
+<!-- certificate and files -->
 
 **The Things Academy: Hands On with LoRaWAN®**  
 *Udemy, 2023*
 - Practical, project-based LoRaWAN training from industry experts
 - Gateway configuration, sensor integration, real-world deployment scenarios
 - Advanced topics in LoRaWAN network design and optimization
+<!-- certificate and files 
+  ![document](documents/online_course/CCNAv7.jpg)  
+  [Download copy of the document](documents/online_course/CCNAv7.pdf)
+certificate and files -->
 
 **A Practical Introduction to the BACnet Protocol**  
 *Udemy, 2023*
 - Comprehensive BACnet system integration training
 - Building automation, HVAC control systems, facility management
 - Practical implementation and troubleshooting techniques
+<!-- certificate and files -->
+  ![document](documents/online_course/BACnet.jpg)  
+  [Download copy of the document](documents/online_course/BACnet.pdf)
+<!-- certificate and files -->
 
 ### Foundational & Specialized Certifications
 
@@ -347,12 +356,28 @@ Technical specialist role developing and deploying renewable energy and automati
 - MIT-level electrical engineering fundamentals
 - Circuit analysis, component behavior, practical circuit design
 - Foundation for embedded systems and hardware engineering
+<!-- certificate and files -->
+  ![document](documents/online_course/MITX 6.002x.jpg)  
+  [Download copy of the document](documents/online_course/MITX 6.002x.pdf)
+<!-- certificate and files -->
 
 **ET3034TUx: Solar Energy**  
 *Delft University of Technology (Online), 2013*
 - Solar photovoltaic systems and renewable energy technology
 - System design, efficiency optimization, practical applications
 - Foundation for renewable energy engineering work
+<!-- certificate and files -->
+  ![document](documents/online_course/SolarEnergy.jpg)  
+  [Download copy of the document](documents/online_course/SolarEnergy.pdf)
+<!-- certificate and files -->
+
+**Basics of Microcontroller**  
+*IEEE Student Branch, 2013*
+- System, optimization, practical applications of Microcontroller
+<!-- certificate and files -->
+  ![document](documents/online_course/microcontroller.jpg)  
+  [Download copy of the document](documents/online_course/microcontroller.pdf)
+<!-- certificate and files -->
 
 ---
 
