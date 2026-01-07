@@ -38,10 +38,10 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 | **Years** | **Position** | **Company** | **Location** |
 |-----------|-----------|-----------|-----------|
 | 2022 – Present | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
-| 2020 – 2022 | IT Support Engineer (Freelance) | Allianz, Enterprise, Mercedes-Benz | Germany |
+| 2020 – 2022 | IT Support Engineer (Freelance) |   | Germany |
 | 2015 – 2020 | Deputy Manager | Summit Corporation Limited | Dhaka, Bangladesh |
 | 2014 – 2015 | Assistant Engineer | EZZY Group | Dhaka, Bangladesh |
-| 2014 | Intern | Dhaka Electric Supply Company (DESCO) | Dhaka, Bangladesh |
+| 2014 - 2014 | Intern | Dhaka Electric Supply Company (DESCO) | Dhaka, Bangladesh |
 | 2013 – 2014 | Executive Expert | E Lab Bangladesh Limited | Dhaka, Bangladesh |
 
 ---
@@ -111,7 +111,7 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
   - ADR (Automated Device Rate) tuning for optimal data transmission
   - RF (Radio Frequency) site surveys and propagation analysis
   - Antenna calibration and positioning optimization
-- **Performance improvements achieved:**
+ **Performance improvements achieved:**
   - RSSI (Received Signal Strength Indicator) performance increased by 25%
   - Sensor battery life extended by 30% through optimized transmission parameters
   - Extended coverage to previously unreachable monitoring points
@@ -131,7 +131,7 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
   - Weather data ingestion pipelines
   - Router supervision and health monitoring
   - Linux shell automation for routine operations
-- **Operational impact:** Reduced manual intervention by 40%, freeing operations staff for strategic tasks
+ **Operational impact:** Reduced manual intervention by 40%, freeing operations staff for strategic tasks
 - Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
 - Achieved high-availability monitoring with proactive fault detection and alerting
 
@@ -577,6 +577,27 @@ Intermediate (CEFR Level B1 – developing professional proficiency)
 - Rapid payback through operational savings
 - Environmental impact through reduced carbon footprint
 
+
+---
+
+## Publications
+### Professional Development Goals
+- Green Street and Transport using Super-Capacitor
+LAP LAMBERT Academic Publishing · Mar 20, 2020
+Publisher: LAP LAMBERT Academic Publishing
+Editor: lbucur
+Published on: 2020-07-03
+ISBN-13: 978-620-2-67348-8
+ISBN-10 : 6202673486
+ISBN: 978-620-2-67348-8
+EAN: 9786202673488
+Book language: English
+
+<!-- certificate and files -->
+  ![document](documents/mixed/publication_greenstreet.jpg)  
+  [Download copy of the document](https://a.co/d/iMNvAEB)
+<!-- certificate and files -->
+
 ---
 
 ## Additional Information
@@ -588,16 +609,22 @@ Intermediate (CEFR Level B1 – developing professional proficiency)
 - Develop thought leadership in sustainable energy monitoring and optimization
 
 ### Interests & Passions
-- Renewable energy systems and sustainability
 - IoT technology innovation and practical applications
 - Building scalable, data-driven infrastructure solutions
 - Bridging hardware engineering and software automation
 - Open-source technologies and community contribution
+- Renewable energy systems and sustainability
 
 ### Professional Affiliations
+- Engineering Students' Association of Bangladesh (ESAB) – Member
+- The Institution of Engineers, Bangladesh (IEB) – Member
 - Technical University of Cologne (TH Köln) – Active postgraduate student
 - Cisco Learning Network – CCNA certified professional
-- LoRaWAN Alliance ecosystem – Industry training certified
+
+### Honors & awards
+- Best Cadet Award
+Issued by Bangladesh National Cadet Corps (BNCC) · Jan 2003
+
 
 ---
 
@@ -607,22 +634,7 @@ References and detailed project documentation available upon request. Scanned ce
 
 ---
 
-## Notes on Supplementary Documentation
 
-**Scanned Certificates & Experience Letters:**
-- Bachelor of Science (Electrical & Electronic Engineering) – AIUB 2014
-- Master of Engineering (Telecommunication) – AIUB 2018
-- M.Sc. Enrollment Certificate – TH Köln (2020–Present)
-- CCNA: Introduction to Networks – Cisco 2021
-- LoRaWAN Certification – The Things Academy 2023
-- BACnet Certification – Udemy 2023
-- MIT Circuits & Electronics 2013
-- Solar Energy Certificate – Delft University 2013
-- Experience Letters from all employers
-
-*These documents are available in a supplementary portfolio folder upon request.*
-
----
 
 *Portfolio Last Updated: January 2026*  
 *Contact: bhuiyan.mofassair@gmail.com | +49 163 334 8673*
