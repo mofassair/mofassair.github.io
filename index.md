@@ -1,15 +1,16 @@
 ---
 layout: home
-title: Mofassair
+title: Portfolio
 ---
 
-# Portfolio – Career & Competency
-Date Prepared: January 07, 2026
+*Date Prepared: January 07, 2026*
 
-## MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
+### MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
 **IoT & Edge Systems Engineer | Electrical & Systems Specialist**
 
 ---
+
+
 
 ### Contact Information
 
