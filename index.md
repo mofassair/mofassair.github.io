@@ -162,7 +162,7 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 #### Technical Environment
 LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
 
-  ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)  
+  ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg)  
   [Download copy of the document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
 ---
@@ -218,7 +218,7 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 #### Impact
 Ensured operational reliability and cost-efficiency for enterprise infrastructure supporting thousands of employees and critical business operations.
 
-  ![document](documents/work_exp/exp_cert_Summit.pdf)  
+  ![document](documents/work_exp/exp_cert_Summit.jpg)  
   [Download copy of the document](documents/work_exp/exp_cert_Summit.pdf)
 
 ---
@@ -238,7 +238,7 @@ Early-stage engineering role focused on R&D, technical design, and international
 - Supported system design and feasibility studies
 
   ![document](documents/work_exp/exp_cert_EZZY.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_EZZY.jpg)
+  [Download copy of the document](documents/work_exp/exp_cert_EZZY.pdf)
 
 
 ---
@@ -256,7 +256,7 @@ Hands-on exposure to electrical supply operations and distribution systems.
 - Supported field operations and system monitoring
 
   ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_Desco_Intern.jpg)
+  [Download copy of the document](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
 ---
 
@@ -280,7 +280,7 @@ Technical specialist role developing and deploying renewable energy and automati
 - Demonstrated sustainability and energy independence
 
   ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_E_Lab.jpg)
+  [Download copy of the document](documents/work_exp/exp_cert_E_Lab.pdf)
 
 ---
 
@@ -300,7 +300,7 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
 
-  ![document](documents/academic/MEng in Telecommuniation - Certificate.pdf)  
+  ![document](documents/academic/MEng in Telecommuniation - Certificate.jpg)  
   [Download copy of the document](documents/academic/MEng in Telecommuniation - Certificate.pdf)
 
 ### Bachelor of Science in Electrical & Electronic Engineering
@@ -309,7 +309,7 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
-  ![document](documents/academic/BSc in EEE Certificate (1).pdf)  
+  ![document](documents/academic/BSc in EEE Certificate (1).jpg)  
   [Download copy of the document](documents/academic/BSc in EEE Certificate (1).pdf)
 
 ---
@@ -324,7 +324,7 @@ Technical specialist role developing and deploying renewable energy and automati
 - TCP/IP protocol suite, LAN/WAN architecture, network troubleshooting
 - Industry-recognized credential validating professional networking competency
 
-  ![document](documents/online_course/CCNAv7.pdf)  
+  ![document](documents/online_course/CCNAv7.jpg)  
   [Download copy of the document](documents/online_course/CCNAv7.pdf)
 
 
