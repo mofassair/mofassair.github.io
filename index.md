@@ -1,16 +1,15 @@
 ---
 layout: home
-title: Mohammad Mofassair Hossain Bhuiyan
+title: Mofassair
 ---
 
-# Professional Portfolio – Career & Competency Profile
+# Portfolio – Career & Competency
+Date Prepared: January 07, 2026
 
 ## MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
 **IoT & Edge Systems Engineer | Electrical & Systems Specialist**
 
 ---
-
-### Date Prepared: January 07, 2026
 
 ### Contact Information
 
@@ -23,6 +22,7 @@ title: Mohammad Mofassair Hossain Bhuiyan
 **Date of Birth:** January 28, 1990
 
 ---
+
 
 ## Professional Summary
 
@@ -161,6 +161,9 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 #### Technical Environment
 LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
 
+  ![BSc Certificate Scan](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)  
+  [Download copy of the Certificate](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
+
 ---
 
 ### IT Support Engineer (Freelance)
@@ -290,12 +293,8 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
-## Test jpg and PDF attach - start
-
-- **Bachelor of Science in Electrical & Electronic Engineering** (Cisco, 2021)  
-  ![BSc Certificate Scan](documents/online_course/IEEE microcontroller.png)  
-  [View Full Certificate](documents/academic/BSc in EEE Certificate (1).pdf)
-## Test jpg and PDF attach - end
+  ![BSc Certificate Scan](documents/academic/BSc in EEE Certificate (1).pdf)  
+  [Download copy of the Certificate](documents/academic/BSc in EEE Certificate (1).pdf)
 
 ---
 

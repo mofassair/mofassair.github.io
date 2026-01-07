@@ -105,10 +105,13 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
   - ADR (Automated Device Rate) tuning for optimal data transmission
   - RF (Radio Frequency) site surveys and propagation analysis
   - Antenna calibration and positioning optimization
-- **Performance improvements achieved:**
+
+  *Performance improvements achieved:*
   - RSSI (Received Signal Strength Indicator) performance increased by 25%
   - Sensor battery life extended by 30% through optimized transmission parameters
   - Extended coverage to previously unreachable monitoring points
+  
+
 
 **Python-Based Data Pipeline Development**
 - Architected and developed Python ETL pipelines for automated, end-to-end data management:
@@ -125,9 +128,11 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
   - Weather data ingestion pipelines
   - Router supervision and health monitoring
   - Linux shell automation for routine operations
-- **Operational impact:** Reduced manual intervention by 40%, freeing operations staff for strategic tasks
-- Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
-- Achieved high-availability monitoring with proactive fault detection and alerting
+
+  *Operational impact:*
+  - Reduced manual intervention by 40%, freeing operations staff for strategic tasks
+  - Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
+  - Achieved high-availability monitoring with proactive fault detection and alerting
 
 **Edge Computing & Containerization**
 - Built and managed Dockerized deployment frameworks for reproducible edge device rollouts
@@ -149,13 +154,17 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 - Maintained redundancy across distributed infrastructure
 - Supported disaster recovery and compliance requirements
 
-#### Projects
+### Projects
 - **Public University Infrastructure (Two Sites):** Multi-building energy and facility monitoring with coordinated LoRaWAN sensor networks
 - **German Government Development Bank:** Enterprise-scale infrastructure supporting critical operations with high availability requirements
 
 #### Technical Environment
 LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
 
+
+Recommandation Letter:
+  ![BSc Certificate Scan](documents/online_course/IEEE microcontroller.png)  
+  [Click here to View or Download the documents](documents/academic/BSc in EEE Certificate (1).pdf)
 ---
 
 ### IT Support Engineer (Freelance)
@@ -289,7 +298,7 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Bachelor of Science in Electrical & Electronic Engineering** (Cisco, 2021)  
   ![BSc Certificate Scan](documents/online_course/IEEE microcontroller.png)  
-  [View Full Certificate](documents/academic/BSc in EEE Certificate (1).pdf)
+  [Click here to View or Download the documents](documents/academic/BSc in EEE Certificate (1).pdf)
 ## Test jpg and PDF attach - end
 
 ---
