@@ -298,6 +298,9 @@ Technical specialist role developing and deploying renewable energy and automati
 - **Research Focus:** IoT, Networks, Edge Computing
 - **Relevant Coursework:** Advanced network protocols, distributed systems, wireless communication, system architecture
 
+  [Download copy of the document](documents/academic/Th_koln_transcript.pdf)
+
+
 ### Master of Engineering in Telecommunication
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
 **2018**
