@@ -5,7 +5,7 @@ title: Portfolio
 
 *Date Prepared: January 07, 2026*
 
-  ![document](documents/mixed/2M6A4240PP.jpg)  
+  ![document](documents/mixed/profile_photo.png)  
 
 
 
