@@ -6,6 +6,7 @@ title: Portfolio
 *Date Prepared: January 07, 2026*
 
 ![document](documents/mixed/profile_photo.png)  
+![document](documents/mixed/profile_photo.png)  
 
 
 
@@ -134,10 +135,10 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
   - Meter data logging automation
   - Weather data ingestion pipelines
   - Router supervision and health monitoring
-  - Linux shell automation for routine operations<br>
-  **Operational impact:** <br>
-  -> Reduced manual intervention by 40%, allowing operational resources to focus on strategic initiatives.
-
+  - Linux shell automation for routine operations
+ **Operational impact:** Reduced manual intervention by 40%, freeing operations staff for strategic tasks
+- Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
+- Achieved high-availability monitoring with proactive fault detection and alerting
 
 **Edge Computing & Containerization**
 - Built and managed Dockerized deployment frameworks for reproducible edge device rollouts
