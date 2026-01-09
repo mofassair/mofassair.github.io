@@ -44,6 +44,7 @@ title:
 
 
 ## Professional Summary
+---
 I am an IoT and Edge Systems Engineer with over 7 years of experience in energy systems, building automation, and communication technologies. I specialize in designing, deploying, and maintaining multi-site LoRaWAN infrastructures, integrating BACnet and InfluxDB systems, and developing Python-based ETL pipelines for real-time data analytics. My expertise includes Dockerized edge deployments, network reliability, and secure remote connectivity using WireGuard VPN. With a strong foundation in electrical and electronic engineering, I am passionate about creating scalable, data-driven solutions that enhance energy efficiency, reliability, and sustainability.
 
 I have worked in diverse roles across IT operations, electrical systems engineering, and hardware design, supporting mission-critical environments in energy optimization, infrastructure, and renewable energy projects. My career spans Bangladesh and Germany, where I have led cross-functional teams, optimized systems for performance, and reduced operational costs through innovative automation and integration.
@@ -51,6 +52,9 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 <br>
 
 ## Core Competencies
+
+---
+
 ### Technical Infrastructure & IoT
 - Multi-site LoRaWAN infrastructure design and deployment
 - IoT sensor ecosystem integration and optimization
@@ -97,6 +101,8 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 
 ## Professional Experience Timeline
 
+---
+
 | **Years** | **Position** | **Company** | **Location** |
 |-----------|-----------|-----------|-----------|
 | **2022 – Present** | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
@@ -111,6 +117,8 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 <br>
 
 ## Detailed Professional Experience
+
+---
 
 ### IT-Fachkraft (IoT & Edge Systems)
 **Teo-tschakrow Energie Optimierung, Köln, Germany**  
@@ -185,6 +193,7 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 
 
 <br>
+<br>
 
 ### IT Support Engineer (Freelance)
 **July 2020 – June 2022**
@@ -201,8 +210,9 @@ On-site Level-2 IT support for multinational corporate environments and automoti
 - Maintained service continuity for business-critical operations
 
 #### Technical Environment
-Windows, Linux, macOS, Network Administration, Hardware Troubleshooting, User Support
+> Windows, Linux, macOS, Network Administration, Hardware Troubleshooting, User Support
 
+<br>
 <br>
 
 ### Deputy Manager
@@ -235,12 +245,13 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 - Collaborated with internal departments and external vendors
 
 #### Impact
-Ensured operational reliability and cost-efficiency for enterprise infrastructure supporting thousands of employees and critical business operations.
+> Ensured operational reliability and cost-efficiency for enterprise infrastructure supporting thousands of employees and critical business operations.
 
 *Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/work_exp/exp_cert_Summit.jpg)  
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
 
+<br>
 <br>
 
 ### Assistant Engineer
@@ -263,6 +274,7 @@ Early-stage engineering role focused on R&D, technical design, and international
 
 
 <br>
+<br>
 
 ### Intern
 **Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesh**  
@@ -280,6 +292,7 @@ Hands-on exposure to electrical supply operations and distribution systems.
   ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
+<br>
 <br>
 
 ### Executive Expert
@@ -306,8 +319,11 @@ Technical specialist role developing and deploying renewable energy and automati
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
 <br>
+<br>
 
 ## Education
+
+---
 
 ### Master of Science (M.Sc.) in Communication Systems and Networks
 **Technical University of Cologne (TH Köln), Cologne, Germany**  
@@ -347,6 +363,8 @@ Technical specialist role developing and deploying renewable energy and automati
 <br>
 
 ## Professional Certifications & Online Learning
+
+---
 
 ### Networking & IoT Certifications
 
@@ -429,6 +447,8 @@ certificate and files -->
 
 ## Technical Skills Summary
 
+---
+
 ### IoT & Connectivity Protocols
 - **LoRaWAN:** Multi-site infrastructure design, gateway configuration, ADR optimization, RF site surveys, antenna calibration
 - **BACnet:** Building automation system integration, HVAC control, facility management systems
@@ -472,17 +492,21 @@ certificate and files -->
 
 ## Languages
 
+---
+
 **English**  
-Fluent (Professional working proficiency)
+Fluent (Professional Business proficiency)
 
 **German**  
-Intermediate (CEFR Level B1 – developing professional proficiency)  
+Basic (CEFR Level A2.1 – developing professional proficiency)  
 *Currently studying and improving for career advancement in German-speaking environment*
 
 
 <br>
 
 ## Key Performance Indicators & Achievements
+
+---
 
 ### Infrastructure & Operations Impact
 - **25% improvement** in RSSI performance through LoRaWAN optimization techniques
@@ -508,6 +532,8 @@ Intermediate (CEFR Level B1 – developing professional proficiency)
 
 
 ## Project Portfolio Summary
+
+---
 
 ### 1. Multi-Site University Energy Monitoring System
 **Timeline:** 2022-Present  
