@@ -21,18 +21,18 @@ title: downloads
 <br >
 
 # 📄 CV
-
+---
 | Documents | Files |
 |-----------|----------|
 | CV in German language | [**Download**](documents/CV/CV_Bhuiyan_DE_IoT_EEE.pdf) |
 | CV in English language | [**Download**](documents/CV/CV_Bhuiyan_EN_IoT_EEE.pdf) |
 
 
-
+<br >
 <br >
 
 ## 📋 Professional Experience Timeline
-
+---
 | Tenure | Designation | Company | Location | File |
 |--------|-------------|---------|----------|------|
 | **2022 – Present** | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany | [**Download**](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf) |
@@ -43,23 +43,23 @@ title: downloads
 | **2013 – 2014** | Executive Expert | E Lab Bangladesh Limited | Bangladesh | [**Download**](documents/work_exp/exp_cert_E_Lab.pdf) |
 
 
-
+<br >
 <br >
 
 ## 🎓 Education
-
+---
 | Degree | Institution | Year | Download |
 |--------|-------------|------|----------|
 | M.Sc. Communication Systems and Networks | Technical University of Cologne (TH Köln), Germany | 2020–Present | [**Transcript**](documents/academic/Th_koln_transcript.pdf) |
 | M.Eng. Telecommunication | American International University-Bangladesh (AIUB) | 2018 | [**Certificate**](documents/academic/MEng_cert.pdf) |
 | B.Sc. Electrical & Electronic Engineering | American International University-Bangladesh (AIUB) | 2014 | [**Certificate**](documents/academic/BSc_cert.pdf) |
 
----
 
-
+<br >
+<br >
 
 ## 🧾 Certifications Downloads
-
+---
 | Certification | Issuer | Year | Download |
 |---------------|--------|------|----------|
 | CCNA: Introduction to Networks | Cisco | 2021 | [**Download**](documents/online_course/CCNAv7.pdf) |
