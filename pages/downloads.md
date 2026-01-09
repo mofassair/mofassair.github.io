@@ -1,128 +1,94 @@
 ---
 layout: downloads
-title: downloads
+title: Downloads
 ---
 
-## CV 
+# 📄 CV
 
-#### German CV:  [>>**Download copy of the document**<<](documents/CV/CV_Bhuiyan_DE_IoT_EEE.pdf)
-
-#### English CV:  [>>**Download copy of the document**<<](documents/CV/CV_Bhuiyan_EN_IoT_EEE.pdf)
-
-<br>
-
-## Professional Experience
-
-### IT-Fachkraft (IoT & Edge Systems)
-**Teo-tschakrow Energie Optimierung, Köln, Germany**  
-**June 2022 – Present**
-
-*Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg)  
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
-
-
-
-### IT Support Engineer (Freelance)
-**July 2020 – June 2022**
-*Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_Summit.jpg)  
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
-
-
-
-### Assistant Engineer
-**EZZY Group, Dhaka, Bangladesh**  
-**November 2014 – February 2015**
-*Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_EZZY.jpg)  
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_EZZY.pdf)
-
-
-### Intern
-**Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesh**  
-**March 2014 – April 2014**
-
-*Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
-
-
-  ### Executive Expert
-**E Lab Bangladesh Limited, Dhaka, Bangladesh**  
-**November 2013 – November 2014**
-
-*Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
-
-
-<br>
-
-## Education
-
-  ### Master of Science (M.Sc.) in Communication Systems and Networks
-  **Technical University of Cologne (TH Köln), Cologne, Germany**  
-  **March 2020 – Present**
-    
-    [>>**Download copy of the document**<<](documents/academic/Th_koln_transcript.pdf)
-  
-  
-  ### Master of Engineering in Telecommunication
-  **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
-  **2018**
-   
-    [Download copy of the document](documents/academic/MEng in Telecommuniation - Certificate.pdf)
-  
-  ### Bachelor of Science in Electrical & Electronic Engineering
-  **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
-  **2014**
-  
-    [>>**Download copy of the document**<<](documents/academic/BSc in EEE Certificate (1).pdf)
+| Language | Description | Download |
+|-----------|--------------|-----------|
+| 🇩🇪 German | CV in German language | [⬇️ **Download**](documents/CV/CV_Bhuiyan_DE_IoT_EEE.pdf) |
+| 🇬🇧 English | CV in English language | [⬇️ **Download**](documents/CV/CV_Bhuiyan_EN_IoT_EEE.pdf) |
 
 ---
 
-## Professional Certifications & Online Learning
+# 💼 Professional Experience
 
-### Networking & IoT Certifications
+### IT-Fachkraft (IoT & Edge Systems)  
+**Teo-tschakrow Energie Optimierung**, Köln, Germany  
+*June 2022 – Present*
 
-**CCNA: Introduction to Networks**  
-*Issued by Cisco, 2021*
- 
-  [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
-<!-- certificate and files -->
+| Document | Description | Download |
+|-----------|--------------|-----------|
+| ![Teo Certificate](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg) | Employment Certificate | [⬇️ **Download**](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf) |
 
-**The Things Academy: Hands On with LoRaWAN®**  
-*Udemy, 2023*
+---
 
-<!-- certificate and files 
-*Relevant <strong>Documents</strong> related to the activity:*
+### IT Support Engineer (Freelance)  
+*July 2020 – June 2022*
 
-  ![document](documents/online_course/CCNAv7.jpg)  
-  [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
-certificate and files -->
+| Document | Description | Download |
+|-----------|--------------|-----------|
+| ![Summit Certificate](documents/work_exp/exp_cert_Summit.jpg) | Work Experience Certificate | [⬇️ **Download**](documents/work_exp/exp_cert_Summit.pdf) |
 
-**A Practical Introduction to the BACnet Protocol**  
-*Udemy, 2023*
-  
-  [>>**Download copy of the document**<<](documents/online_course/BACnet.pdf)
-<!-- certificate and files -->
+---
 
-### Foundational & Specialized Certifications
+### Assistant Engineer  
+**EZZY Group**, Dhaka, Bangladesh  
+*November 2014 – February 2015*
 
-**Circuits and Electronics (6.002x)**  
-*Massachusetts Institute of Technology (MIT), 2013*
+| Document | Description | Download |
+|-----------|--------------|-----------|
+| ![EZZY Certificate](documents/work_exp/exp_cert_EZZY.jpg) | Work Experience Certificate | [⬇️ **Download**](documents/work_exp/exp_cert_EZZY.pdf) |
 
-  [>>**Download copy of the document**<<](documents/online_course/MITX 6.002x.pdf)
+---
 
+### Intern  
+**Dhaka Electric Supply Company Ltd. (DESCO)**, Dhaka, Bangladesh  
+*March 2014 – April 2014*
 
-**ET3034TUx: Solar Energy**  
-*Delft University of Technology (Online), 2013*
+| Document | Description | Download |
+|-----------|--------------|-----------|
+| ![DESCO Internship](documents/work_exp/exp_cert_Desco_Intern.jpg) | Internship Certificate | [⬇️ **Download**](documents/work_exp/exp_cert_Desco_Intern.pdf) |
 
-  [>>**Download copy of the document**<<](documents/online_course/SolarEnergy.pdf)
+---
 
+### Executive Expert  
+**E Lab Bangladesh Limited**, Dhaka, Bangladesh  
+*November 2013 – November 2014*
 
-**Basics of Microcontroller**  
-*IEEE Student Branch, 2013*
+| Document | Description | Download |
+|-----------|--------------|-----------|
+| ![E Lab Certificate](documents/work_exp/exp_cert_E_Lab.jpg) | Employment Certificate | [⬇️ **Download**](documents/work_exp/exp_cert_E_Lab.pdf) |
 
-  [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
+---
+
+# 🎓 Education
+
+| Degree | Institution | Year | Download |
+|---------|-------------|------|-----------|
+| M.Sc. in Communication Systems and Networks | Technical University of Cologne (TH Köln), Germany | 2020 – Present | [⬇️ **Transcript**](documents/academic/Th_koln_transcript.pdf) |
+| M.Eng. in Telecommunication | American International University-Bangladesh (AIUB), Bangladesh | 2018 | [⬇️ **Certificate**](documents/academic/MEng in Telecommuniation - Certificate.pdf) |
+| B.Sc. in Electrical & Electronic Engineering | American International University-Bangladesh (AIUB), Bangladesh | 2014 | [⬇️ **Certificate**](documents/academic/BSc in EEE Certificate (1).pdf) |
+
+---
+
+# 🧾 Professional Certifications & Online Learning
+
+## Networking & IoT Certifications
+
+| Course | Issuer | Year | Download |
+|---------|---------|------|-----------|
+| CCNA: Introduction to Networks | Cisco | 2021 | [⬇️ **Certificate**](documents/online_course/CCNAv7.pdf) |
+| Hands On with LoRaWAN® | Udemy (The Things Academy) | 2023 | - |
+| A Practical Introduction to the BACnet Protocol | Udemy | 2023 | [⬇️ **Certificate**](documents/online_course/BACnet.pdf) |
+
+---
+
+## Foundational & Specialized Certifications
+
+| Course | Issuer | Year | Download |
+|---------|---------|------|-----------|
+| Circuits and Electronics (6.002x) | MIT (edX) | 2013 | [⬇️ **Certificate**](documents/online_course/MITX 6.002x.pdf) |
+| ET3034TUx: Solar Energy | Delft University of Technology (Online) | 2013 | [⬇️ **Certificate**](documents/online_course/SolarEnergy.pdf) |
+| Basics of Microcontroller | IEEE Student Branch | 2013 | [⬇️ **Certificate**](documents/online_course/microcontroller.pdf) |
