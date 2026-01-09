@@ -112,11 +112,11 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 - Configured and optimized multi-vendor LoRaWAN gateways through advanced techniques:
   - ADR (Automated Device Rate) tuning for optimal data transmission
   - RF (Radio Frequency) site surveys and propagation analysis
-  - Antenna calibration and positioning optimization
- **Performance improvements achieved:**
-  - RSSI (Received Signal Strength Indicator) performance increased by 25%
-  - Sensor battery life extended by 30% through optimized transmission parameters
-  - Extended coverage to previously unreachable monitoring points
+  - Antenna calibration and positioning optimization<br>
+  **Performance improvements achieved:**<br>
+  -> RSSI (Received Signal Strength Indicator) performance increased by 25%<br>
+  -> Sensor battery life extended by 30% through optimized transmission parameters<br>
+  -> Extended coverage to previously unreachable monitoring points
 
 **Python-Based Data Pipeline Development**
 - Architected and developed Python ETL pipelines for automated, end-to-end data management:
@@ -135,9 +135,8 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
   - Weather data ingestion pipelines
   - Router supervision and health monitoring
   - Linux shell automation for routine operations<br>
-
-  **Operational impact:**<br> 
-  - Reduced manual intervention by 40%, allowing operational resources to focus on strategic initiatives.
+  **Operational impact:** <br>
+  -> Reduced manual intervention by 40%, allowing operational resources to focus on strategic initiatives.
 
 
 **Edge Computing & Containerization**

@@ -5,7 +5,7 @@ title: Portfolio
 
 *Date Prepared: January 07, 2026*
 
-  ![document](documents/mixed/profile_photo.png)  
+![document](documents/mixed/profile_photo.png)  
 
 
 
@@ -17,41 +17,27 @@ title: Portfolio
 
 
 ### Contact Information
-
+---
 **Address:** Syedlitzstr. 2, 50737 Köln, Germany  
 **Phone:** +49 163 334 8673  
 **Email:** bhuiyan.mofassair@gmail.com  
 **Website:** mofassair.github.io  
 **LinkedIn:** linkedin.com/in/mofassair  
-**GitHub:** github.com/mofassair  
+**GitHub:** github.com/mofassair
+
 **Date of Birth:** January 28, 1990
 
----
+
 
 
 ## Professional Summary
-
 I am an IoT and Edge Systems Engineer with over 7 years of experience in energy systems, building automation, and communication technologies. I specialize in designing, deploying, and maintaining multi-site LoRaWAN infrastructures, integrating BACnet and InfluxDB systems, and developing Python-based ETL pipelines for real-time data analytics. My expertise includes Dockerized edge deployments, network reliability, and secure remote connectivity using WireGuard VPN. With a strong foundation in electrical and electronic engineering, I am passionate about creating scalable, data-driven solutions that enhance energy efficiency, reliability, and sustainability.
 
 I have worked in diverse roles across IT operations, electrical systems engineering, and hardware design, supporting mission-critical environments in energy optimization, infrastructure, and renewable energy projects. My career spans Bangladesh and Germany, where I have led cross-functional teams, optimized systems for performance, and reduced operational costs through innovative automation and integration.
 
----
 
-## Professional Experience Timeline
-
-| **Years** | **Position** | **Company** | **Location** |
-|-----------|-----------|-----------|-----------|
-| 2022 – Present | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
-| 2020 – 2022 | IT Support Engineer (Freelance) |   | Germany |
-| 2015 – 2020 | Deputy Manager | Summit Corporation Limited | Dhaka, Bangladesh |
-| 2014 – 2015 | Assistant Engineer | EZZY Group | Dhaka, Bangladesh |
-| 2014 - 2014 | Intern | Dhaka Electric Supply Company (DESCO) | Dhaka, Bangladesh |
-| 2013 – 2014 | Executive Expert | E Lab Bangladesh Limited | Dhaka, Bangladesh |
-
----
 
 ## Core Competencies
-
 ### Technical Infrastructure & IoT
 - Multi-site LoRaWAN infrastructure design and deployment
 - IoT sensor ecosystem integration and optimization
@@ -59,7 +45,7 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 - Edge computing and distributed system architecture
 - Radio frequency (RF) site surveys and antenna calibration
 - Automated Device Rate (ADR) tuning and optimization
-- Multi-vendor gateway configuration and management
+- Multi-vendor LoRaWAN gateway configuration and management
 
 ### Software & Automation
 - Python-based ETL (Extract, Transform, Load) pipeline development
@@ -75,7 +61,6 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 - Hardware validation and embedded system testing
 - Electrical schematics and wiring documentation
 - AutoCAD and P&ID (Process & Instrumentation Diagram) design
-- PLC (Programmable Logic Controller) programming (basic)
 - PSPICE and Proteus circuit simulation
 - Hardware troubleshooting and root-cause diagnostics
 
@@ -90,11 +75,24 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 
 ### Engineering Fundamentals
 - Renewable energy systems (solar, wind, LED efficiency)
-- Power and control systems
 - Energy storage optimization
 - Network security and secure remote access
 - System-level monitoring and fault detection
 - Backup architecture and data integrity
+
+
+
+## Professional Experience Timeline
+| **Years** | **Position** | **Company** | **Location** |
+|-----------|-----------|-----------|-----------|
+| 2022 – Present | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
+| 2020 – 2022 | IT Support Engineer (Freelance) |   | Germany |
+| 2015 – 2020 | Deputy Manager | Summit Corporation Limited | Bangladesh |
+| 2014 – 2015 | Assistant Engineer | EZZY Group |  Bangladesh |
+| 2014 - 2014 | Intern | Dhaka Electric Supply Company (DESCO) | Bangladesh |
+| 2013 – 2014 | Executive Expert | E Lab Bangladesh Limited | Bangladesh |
+
+
 
 ---
 
@@ -105,7 +103,7 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 **June 2022 – Present**
 
 #### Scope
-Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-site energy and facility monitoring systems supporting critical public and government infrastructure.
+IoT infrastructure engineer responsible for mid-scale, multi-site energy and facility monitoring systems supporting critical public and government infrastructure.
 
 #### Key Achievements
 
@@ -114,11 +112,11 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 - Configured and optimized multi-vendor LoRaWAN gateways through advanced techniques:
   - ADR (Automated Device Rate) tuning for optimal data transmission
   - RF (Radio Frequency) site surveys and propagation analysis
-  - Antenna calibration and positioning optimization
- **Performance improvements achieved:**
-  - RSSI (Received Signal Strength Indicator) performance increased by 25%
-  - Sensor battery life extended by 30% through optimized transmission parameters
-  - Extended coverage to previously unreachable monitoring points
+  - Antenna calibration and positioning optimization<br>
+  **Performance improvements achieved:**<br>
+  -> RSSI (Received Signal Strength Indicator) performance increased by 25%<br>
+  -> Sensor battery life extended by 30% through optimized transmission parameters<br>
+  -> Extended coverage to previously unreachable monitoring points
 
 **Python-Based Data Pipeline Development**
 - Architected and developed Python ETL pipelines for automated, end-to-end data management:
@@ -130,14 +128,16 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 - Enabled stakeholders to monitor energy consumption, system health, and operational metrics in real-time
 
 **Automation & Operations Efficiency**
+- Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
+- Achieved high-availability monitoring with proactive fault detection and alerting
 - Authored and maintained comprehensive automation scripts and monitoring modules:
   - Meter data logging automation
   - Weather data ingestion pipelines
   - Router supervision and health monitoring
-  - Linux shell automation for routine operations
- **Operational impact:** Reduced manual intervention by 40%, freeing operations staff for strategic tasks
-- Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
-- Achieved high-availability monitoring with proactive fault detection and alerting
+  - Linux shell automation for routine operations<br>
+  **Operational impact:** <br>
+  -> Reduced manual intervention by 40%, allowing operational resources to focus on strategic initiatives.
+
 
 **Edge Computing & Containerization**
 - Built and managed Dockerized deployment frameworks for reproducible edge device rollouts
@@ -149,25 +149,25 @@ Enterprise-level IoT infrastructure engineer responsible for large-scale, multi-
 - Architected and deployed WireGuard VPN mesh network infrastructure:
   - Server-side and edge device VPN configuration
   - Connected distributed gateways across multiple sites
-  - Implemented role-based access control (RBAC) for security
 - Enabled secure remote management, encrypted telemetry transfer, and centralized device orchestration
 - Maintained security posture while enabling remote operations and troubleshooting
 
 **Data Integrity & Business Continuity**
 - Designed hybrid backup architecture combining edge-level and NAS (Network Attached Storage) backups
-- Automated verification processes to ensure data integrity and consistency
 - Maintained redundancy across distributed infrastructure
 - Supported disaster recovery and compliance requirements
+- implimentation of custom retention policy
 
 #### Projects
 - **Public University Infrastructure (Two Sites):** Multi-building energy and facility monitoring with coordinated LoRaWAN sensor networks
 - **German Government Development Bank:** Enterprise-scale infrastructure supporting critical operations with high availability requirements
 
 #### Technical Environment
-LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
+> LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
 
+*Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
+  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
 ---
 
@@ -222,8 +222,9 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 #### Impact
 Ensured operational reliability and cost-efficiency for enterprise infrastructure supporting thousands of employees and critical business operations.
 
+*Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/work_exp/exp_cert_Summit.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_Summit.pdf)
+  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
 
 ---
 
@@ -241,8 +242,9 @@ Early-stage engineering role focused on R&D, technical design, and international
 - Maintained technical collaboration with international engineering partners
 - Supported system design and feasibility studies
 
+*Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/work_exp/exp_cert_EZZY.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_EZZY.pdf)
+  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
 
 ---
@@ -259,8 +261,9 @@ Hands-on exposure to electrical supply operations and distribution systems.
 - Gained practical knowledge of electrical infrastructure operations
 - Supported field operations and system monitoring
 
+*Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_Desco_Intern.pdf)
+  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
 ---
 
@@ -283,8 +286,9 @@ Technical specialist role developing and deploying renewable energy and automati
 - Integrated renewable energy generation with practical agricultural application
 - Demonstrated sustainability and energy independence
 
+*Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
-  [Download copy of the document](documents/work_exp/exp_cert_E_Lab.pdf)
+  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
 ---
 
@@ -298,7 +302,8 @@ Technical specialist role developing and deploying renewable energy and automati
 - **Research Focus:** IoT, Networks, Edge Computing
 - **Relevant Coursework:** Advanced network protocols, distributed systems, wireless communication, system architecture
 
-  [Download copy of the document](documents/academic/Th_koln_transcript.pdf)
+*Relevant <strong>Documents</strong> related to the activity:*
+  [>>**Download copy of the document**<<](documents/academic/Th_koln_transcript.pdf)
 
 
 ### Master of Engineering in Telecommunication
@@ -316,8 +321,9 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
+*Relevant <strong>Documents</strong> related to the activity:*
   ![document](documents/academic/BSc in EEE Certificate (1).jpg)  
-  [Download copy of the document](documents/academic/BSc in EEE Certificate (1).pdf)
+  [>>**Download copy of the document**<<](documents/academic/BSc in EEE Certificate (1).pdf)
 
 ---
 
@@ -332,8 +338,10 @@ Technical specialist role developing and deploying renewable energy and automati
 - Industry-recognized credential validating professional networking competency
 
 <!-- certificate and files -->
+*Relevant <strong>Documents</strong> related to the activity:*
+
   ![document](documents/online_course/CCNAv7.jpg)  
-  [Download copy of the document](documents/online_course/CCNAv7.pdf)
+  [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
 <!-- certificate and files -->
 
 **The Things Academy: Hands On with LoRaWAN®**  
@@ -342,8 +350,10 @@ Technical specialist role developing and deploying renewable energy and automati
 - Gateway configuration, sensor integration, real-world deployment scenarios
 - Advanced topics in LoRaWAN network design and optimization
 <!-- certificate and files 
+*Relevant <strong>Documents</strong> related to the activity:*
+
   ![document](documents/online_course/CCNAv7.jpg)  
-  [Download copy of the document](documents/online_course/CCNAv7.pdf)
+  [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
 certificate and files -->
 
 **A Practical Introduction to the BACnet Protocol**  
@@ -352,8 +362,10 @@ certificate and files -->
 - Building automation, HVAC control systems, facility management
 - Practical implementation and troubleshooting techniques
 <!-- certificate and files -->
+*Relevant <strong>Documents</strong> related to the activity:*
+
   ![document](documents/online_course/BACnet.jpg)  
-  [Download copy of the document](documents/online_course/BACnet.pdf)
+  [>>**Download copy of the document**<<](documents/online_course/BACnet.pdf)
 <!-- certificate and files -->
 
 ### Foundational & Specialized Certifications
@@ -364,8 +376,10 @@ certificate and files -->
 - Circuit analysis, component behavior, practical circuit design
 - Foundation for embedded systems and hardware engineering
 <!-- certificate and files -->
+*Relevant <strong>Documents</strong> related to the activity:*
+
   ![document](documents/online_course/MITX 6.002x.jpg)  
-  [Download copy of the document](documents/online_course/MITX 6.002x.pdf)
+  [>>**Download copy of the document**<<](documents/online_course/MITX 6.002x.pdf)
 <!-- certificate and files -->
 
 **ET3034TUx: Solar Energy**  
@@ -374,16 +388,20 @@ certificate and files -->
 - System design, efficiency optimization, practical applications
 - Foundation for renewable energy engineering work
 <!-- certificate and files -->
+*Relevant <strong>Documents</strong> related to the activity:*
+
   ![document](documents/online_course/SolarEnergy.jpg)  
-  [Download copy of the document](documents/online_course/SolarEnergy.pdf)
+  [>>**Download copy of the document**<<](documents/online_course/SolarEnergy.pdf)
 <!-- certificate and files -->
 
 **Basics of Microcontroller**  
 *IEEE Student Branch, 2013*
 - System, optimization, practical applications of Microcontroller
 <!-- certificate and files -->
+*Relevant <strong>Documents</strong> related to the activity:*
+
   ![document](documents/online_course/microcontroller.jpg)  
-  [Download copy of the document](documents/online_course/microcontroller.pdf)
+  [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
 
 ---
@@ -601,8 +619,10 @@ EAN: 9786202673488
 Book language: English
 
 <!-- certificate and files -->
+*lINK to the <strong>publication</strong> is as under:*
+
   ![document](documents/mixed/publication_greenstreet.jpg)  
-  [Download copy of the document](https://a.co/d/iMNvAEB)
+  [>>**Download copy of the document**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->
 
 ---
