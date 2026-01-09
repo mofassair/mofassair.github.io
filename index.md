@@ -6,22 +6,14 @@ title: Portfolio
 *Date Prepared: January 07, 2026*
 
 <!-- Photo and Name -->
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="background: #020202; color: white; padding: 12px 24px; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(22, 91, 182, 0.3);">
-    🏠 **Home**
-  </a>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 800px; margin: 3rem auto; padding: 1rem; background: #f8f9fa00; border-radius: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.1);">
-  
   <!-- Left: Name and Title -->
   <div style="flex: 1; text-align: left;">
-    <h1 style="margin: 0; font-size: 2.0rem; font-weight: 700; color: #ffffff; line-height: 1.2;">
+    <h1>
       MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
     </h1>
-    <p style="margin: 0.4rem 0 0 0; font-size: 1.3rem; color: #547aac; font-weight: 500;">
+    <p>
       IoT & Edge Systems Engineer | Electrical & Systems Specialist
     </p>
   </div>
@@ -29,11 +21,9 @@ title: Portfolio
   <!-- Right: Profile Photo -->
   <div style="flex-shrink: 0;">
     <img src="documents/mixed/profile_photo.png" alt="Profile Photo" 
-         style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 5px solid #1a73e82e; box-shadow: 0 8px 25px rgba(26,115,232,0.3);">
+         style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;">
   </div>
-  
 </div>
-
 <!-- Photo and Name -->
 
 <!-- Comment out 
