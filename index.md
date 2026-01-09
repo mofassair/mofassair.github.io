@@ -312,8 +312,8 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
 
-  ![document](documents/academic/MEng in Telecommuniation - Certificate.jpg)  
-  [Download copy of the document](documents/academic/MEng in Telecommuniation - Certificate.pdf)
+  ![document](documents/academic/MEng_cert.jpg)  
+  [>>**Download copy of the document**<<](documents/academic/MEng_cert.pdf)
 
 ### Bachelor of Science in Electrical & Electronic Engineering
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
@@ -322,8 +322,8 @@ Technical specialist role developing and deploying renewable energy and automati
 - **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/academic/BSc in EEE Certificate (1).jpg)  
-  [>>**Download copy of the document**<<](documents/academic/BSc in EEE Certificate (1).pdf)
+  ![document](documents/academic/BSc_cert.jpg)  
+  [>>**Download copy of the document**<<](documents/academic/BSc_cert.pdf)
 
 ---
 
@@ -378,8 +378,8 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/MITX 6.002x.jpg)  
-  [>>**Download copy of the document**<<](documents/online_course/MITX 6.002x.pdf)
+  ![document](documents/online_course/MITX_6.002x.jpg)  
+  [>>**Download copy of the document**<<](documents/online_course/MITX_6.002x.pdf)
 <!-- certificate and files -->
 
 **ET3034TUx: Solar Energy**  

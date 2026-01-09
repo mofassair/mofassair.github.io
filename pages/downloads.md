@@ -68,8 +68,8 @@ title: Downloads
 | Degree | Institution | Year | Download |
 |---------|-------------|------|-----------|
 | M.Sc. in Communication Systems and Networks | Technical University of Cologne (TH Köln), Germany | 2020 – Present | [⬇️ **Transcript**](documents/academic/Th_koln_transcript.pdf) |
-| M.Eng. in Telecommunication | American International University-Bangladesh (AIUB), Bangladesh | 2018 | [⬇️ **Certificate**](documents/academic/MEng in Telecommuniation - Certificate.pdf) |
-| B.Sc. in Electrical & Electronic Engineering | American International University-Bangladesh (AIUB), Bangladesh | 2014 | [⬇️ **Certificate**](documents/academic/BSc in EEE Certificate (1).pdf) |
+| M.Eng. in Telecommunication | American International University-Bangladesh (AIUB), Bangladesh | 2018 | [⬇️ **Certificate**](documents/academic/MEng_cert.pdf) |
+| B.Sc. in Electrical & Electronic Engineering | American International University-Bangladesh (AIUB), Bangladesh | 2014 | [⬇️ **Certificate**](documents/academic/BSc_cert.pdf) |
 
 ---
 
@@ -89,6 +89,6 @@ title: Downloads
 
 | Course | Issuer | Year | Download |
 |---------|---------|------|-----------|
-| Circuits and Electronics (6.002x) | MIT (edX) | 2013 | [⬇️ **Certificate**](documents/online_course/MITX 6.002x.pdf) |
+| Circuits and Electronics (6.002x) | MIT (edX) | 2013 | [⬇️ **Certificate**](documents/online_course/MITX_6.002x.pdf) |
 | ET3034TUx: Solar Energy | Delft University of Technology (Online) | 2013 | [⬇️ **Certificate**](documents/online_course/SolarEnergy.pdf) |
 | Basics of Microcontroller | IEEE Student Branch | 2013 | [⬇️ **Certificate**](documents/online_course/microcontroller.pdf) |
