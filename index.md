@@ -441,7 +441,7 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/microcontroller.jpg)  
+  ![document](documents/online_course/microcontroller.png)  
   [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
 

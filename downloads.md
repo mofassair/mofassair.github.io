@@ -4,38 +4,27 @@ title: downloads
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="text-decoration: none; font-size: 2.5rem; color: #333;">
+  <a href="/" style="text-decoration: none; font-weight: bold; font-size: 1.2rem; border: 2px solid #333; padding: 0.5rem 1rem; border-radius: 5px;">
     HOME
   </a>
 </div>
-
-<br>
 
 # 📁 Download Center
 
 **Welcome to my download center.** Here you can download my CVs, certificates, transcripts, and experience documents. For further information contact me via email.
 
-
-
-<br>
-<br >
+---
 
 ## CV
 
----
-
 | Documents | Files |
-|-----------|----------|
+|-----------|-------|
 | CV in German language | [**Download**](documents/CV/CV_Bhuiyan_DE_IoT_EEE.pdf) |
 | CV in English language | [**Download**](documents/CV/CV_Bhuiyan_EN_IoT_EEE.pdf) |
 
-
-<br >
-<br >
+---
 
 ## Professional Experience Timeline
-
----
 
 | Tenure | Designation | Company | Location | File |
 |--------|-------------|---------|----------|------|
@@ -46,13 +35,9 @@ title: downloads
 | **2014 – 2014** | Intern | Dhaka Electric Supply Company (DESCO) | Bangladesh | [**Download**](documents/work_exp/exp_cert_Desco_Intern.pdf) |
 | **2013 – 2014** | Executive Expert | E Lab Bangladesh Limited | Bangladesh | [**Download**](documents/work_exp/exp_cert_E_Lab.pdf) |
 
-
-<br >
-<br >
+---
 
 ## Education
-
----
 
 | Degree | Institution | Year | Download |
 |--------|-------------|------|----------|
@@ -60,13 +45,9 @@ title: downloads
 | M.Eng. Telecommunication | American International University-Bangladesh (AIUB) | 2018 | [**Certificate**](documents/academic/MEng_cert.pdf) |
 | B.Sc. Electrical & Electronic Engineering | American International University-Bangladesh (AIUB) | 2014 | [**Certificate**](documents/academic/BSc_cert.pdf) |
 
-
-<br >
-<br >
+---
 
 ## 🧾 Certifications Downloads
-
----
 
 | Certification | Issuer | Year | Download |
 |---------------|--------|------|----------|
@@ -75,6 +56,3 @@ title: downloads
 | Circuits and Electronics (6.002x) | MIT | 2013 | [**Download**](documents/online_course/MITX_6.002x.pdf) |
 | Solar Energy (ET3034TUx) | Delft University | 2013 | [**Download**](documents/online_course/SolarEnergy.pdf) |
 | Basics of Microcontroller | IEEE Student Branch | 2013 | [**Download**](documents/online_course/microcontroller.pdf) |
-
-<br >
-<br >
