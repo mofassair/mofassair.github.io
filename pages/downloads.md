@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Portfolio
+layout: downloads
+title: downloads
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
