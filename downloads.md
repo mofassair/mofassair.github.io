@@ -39,7 +39,7 @@ title: downloads
 | **2020 – 2022** | IT Support Engineer (Freelance) | Freelance | Germany | [**Download**](documents/work_exp/exp_cert_Summit.pdf) |
 | **2015 – 2020** | Deputy Manager | Summit Corporation Limited | Bangladesh | [**Download**](documents/work_exp/exp_cert_Summit.pdf) |
 | **2014 – 2015** | Assistant Engineer | EZZY Group | Bangladesh | [**Download**](documents/work_exp/exp_cert_EZZY.pdf) |
-| **2014** | Intern | Dhaka Electric Supply Company (DESCO) | Bangladesh | [**Download**](documents/work_exp/exp_cert_Desco_Intern.pdf) |
+| **2014 – 2014** | Intern | Dhaka Electric Supply Company (DESCO) | Bangladesh | [**Download**](documents/work_exp/exp_cert_Desco_Intern.pdf) |
 | **2013 – 2014** | Executive Expert | E Lab Bangladesh Limited | Bangladesh | [**Download**](documents/work_exp/exp_cert_E_Lab.pdf) |
 
 
