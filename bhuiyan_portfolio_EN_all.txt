@@ -1,7 +1,3 @@
----
-layout: home
-title: Portfolio
----
 
 *Date Prepared: January 07, 2026*
 
