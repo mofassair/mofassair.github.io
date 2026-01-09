@@ -83,14 +83,15 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 
 
 ## Professional Experience Timeline
+<br>
 | **Years** | **Position** | **Company** | **Location** |
 |-----------|-----------|-----------|-----------|
-| 2022 – Present | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
-| 2020 – 2022 | IT Support Engineer (Freelance) |   | Germany |
-| 2015 – 2020 | Deputy Manager | Summit Corporation Limited | Bangladesh |
-| 2014 – 2015 | Assistant Engineer | EZZY Group |  Bangladesh |
-| 2014 - 2014 | Intern | Dhaka Electric Supply Company (DESCO) | Bangladesh |
-| 2013 – 2014 | Executive Expert | E Lab Bangladesh Limited | Bangladesh |
+| **2022 – Present** | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
+| **2020 – 2022** | IT Support Engineer (Freelance) |   | Germany |
+| **2015 – 2020** | Deputy Manager | Summit Corporation Limited | Bangladesh |
+| **2014 – 2015** | Assistant Engineer | EZZY Group |  Bangladesh |
+| **2014 - 2014** | Intern | Dhaka Electric Supply Company (DESCO) | Bangladesh |
+| **2013 – 2014** | Executive Expert | E Lab Bangladesh Limited | Bangladesh |
 
 
 
