@@ -9,12 +9,15 @@ title: Portfolio
   </a>
 </div>
 
+<br>
+
 # 📁 Download Center & Portfolio
 
 **Welcome to my download center.** Here you can download my CVs, certificates, transcripts, and experience documents. For further information contact me via email.
 
----
 
+
+<br>
 <br >
 
 # 📄 CV
