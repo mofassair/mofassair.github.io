@@ -4,7 +4,7 @@ title: downloads
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="background: #1a73e8; color: white; padding: 12px 24px; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(26,115,232,0.3);">
+  <a href="/" style="text-decoration: none; font-size: 1.5rem; color: #333;">
     🏠
   </a>
 </div>

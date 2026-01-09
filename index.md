@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Portfolio
+title: 
 ---
 
 <!-- Photo and Name -->

@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-## About Me
 
 I am an IoT & Edge Systems Engineer based in Cologne, Germany, with a strong background in communication systems, LoRaWAN networks, and data-driven energy monitoring. I specialize in designing and operating end-to-end IoT infrastructures—from field devices and gateways to databases, dashboards, and system automation.
 
