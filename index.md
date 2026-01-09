@@ -3,8 +3,6 @@ layout: home
 title: Portfolio
 ---
 
-*Date Prepared: January 07, 2026*
-
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 
@@ -38,16 +36,13 @@ title: Portfolio
 
 ### Contact Information
 ---
-**Address:** Syedlitzstr. 2, 50737 Köln, Germany  
-**Phone:** +49 163 334 8673  
 **Email:** bhuiyan.mofassair@gmail.com  
 **Website:** mofassair.github.io  
 **LinkedIn:** linkedin.com/in/mofassair  
 **GitHub:** github.com/mofassair
 
-**Date of Birth:** January 28, 1990
 
-
+<br>
 
 
 ## Professional Summary
@@ -685,4 +680,5 @@ References and detailed project documentation available upon request. Scanned ce
 
 
 *Portfolio Last Updated: January 2026*  
-*Contact: bhuiyan.mofassair@gmail.com | +49 163 334 8673*
+*Date Prepared: January 07, 2026*
+*Contact: bhuiyan.mofassair@gmail.com *
