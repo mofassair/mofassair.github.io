@@ -83,7 +83,6 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 
 
 ## Professional Experience Timeline
-<br>
 | **Years** | **Position** | **Company** | **Location** |
 |-----------|-----------|-----------|-----------|
 | **2022 – Present** | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany |
