@@ -30,12 +30,10 @@ title: Portfolio
 ### MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
 **IoT & Edge Systems Engineer | Electrical & Systems Specialist**
 -->
----
 
-
+<br>
 
 ### Contact Information
----
 **Email:** bhuiyan.mofassair@gmail.com  
 **Website:** mofassair.github.io  
 **LinkedIn:** linkedin.com/in/mofassair  
@@ -50,7 +48,7 @@ I am an IoT and Edge Systems Engineer with over 7 years of experience in energy 
 
 I have worked in diverse roles across IT operations, electrical systems engineering, and hardware design, supporting mission-critical environments in energy optimization, infrastructure, and renewable energy projects. My career spans Bangladesh and Germany, where I have led cross-functional teams, optimized systems for performance, and reduced operational costs through innovative automation and integration.
 
-
+<br>
 
 ## Core Competencies
 ### Technical Infrastructure & IoT
@@ -95,7 +93,7 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 - System-level monitoring and fault detection
 - Backup architecture and data integrity
 
-
+<br>
 
 ## Professional Experience Timeline
 
@@ -110,7 +108,7 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 
 
 
----
+<br>
 
 ## Detailed Professional Experience
 
@@ -185,7 +183,8 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
   ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg)  
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
----
+
+<br>
 
 ### IT Support Engineer (Freelance)
 **July 2020 – June 2022**
@@ -204,7 +203,7 @@ On-site Level-2 IT support for multinational corporate environments and automoti
 #### Technical Environment
 Windows, Linux, macOS, Network Administration, Hardware Troubleshooting, User Support
 
----
+<br>
 
 ### Deputy Manager
 **Summit Corporation Limited, Dhaka, Bangladesh**  
@@ -242,7 +241,7 @@ Ensured operational reliability and cost-efficiency for enterprise infrastructur
   ![document](documents/work_exp/exp_cert_Summit.jpg)  
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
 
----
+<br>
 
 ### Assistant Engineer
 **EZZY Group, Dhaka, Bangladesh**  
@@ -263,7 +262,7 @@ Early-stage engineering role focused on R&D, technical design, and international
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
 
----
+<br>
 
 ### Intern
 **Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesh**  
@@ -281,7 +280,7 @@ Hands-on exposure to electrical supply operations and distribution systems.
   ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
----
+<br>
 
 ### Executive Expert
 **E Lab Bangladesh Limited, Dhaka, Bangladesh**  
@@ -306,7 +305,7 @@ Technical specialist role developing and deploying renewable energy and automati
   ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
----
+<br>
 
 ## Education
 
@@ -321,6 +320,7 @@ Technical specialist role developing and deploying renewable energy and automati
 *Relevant <strong>Documents</strong> related to the activity:*
   [>>**Download copy of the document**<<](documents/academic/Th_koln_transcript.pdf)
 
+<br>
 
 ### Master of Engineering in Telecommunication
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
@@ -330,6 +330,8 @@ Technical specialist role developing and deploying renewable energy and automati
 
   ![document](documents/academic/MEng_cert.jpg)  
   [>>**Download copy of the document**<<](documents/academic/MEng_cert.pdf)
+
+<br>
 
 ### Bachelor of Science in Electrical & Electronic Engineering
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
@@ -341,7 +343,8 @@ Technical specialist role developing and deploying renewable energy and automati
   ![document](documents/academic/BSc_cert.jpg)  
   [>>**Download copy of the document**<<](documents/academic/BSc_cert.pdf)
 
----
+
+<br>
 
 ## Professional Certifications & Online Learning
 
@@ -384,6 +387,8 @@ certificate and files -->
   [>>**Download copy of the document**<<](documents/online_course/BACnet.pdf)
 <!-- certificate and files -->
 
+<br>
+
 ### Foundational & Specialized Certifications
 
 **Circuits and Electronics (6.002x)**  
@@ -420,7 +425,7 @@ certificate and files -->
   [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
 
----
+<br>
 
 ## Technical Skills Summary
 
@@ -462,7 +467,8 @@ certificate and files -->
 - **Energy Efficiency:** LED solutions, consumption optimization, power management
 - **Building Automation:** HVAC control, facility monitoring, energy management systems
 
----
+
+<br>
 
 ## Languages
 
@@ -473,7 +479,8 @@ Fluent (Professional working proficiency)
 Intermediate (CEFR Level B1 – developing professional proficiency)  
 *Currently studying and improving for career advancement in German-speaking environment*
 
----
+
+<br>
 
 ## Key Performance Indicators & Achievements
 
@@ -497,7 +504,8 @@ Intermediate (CEFR Level B1 – developing professional proficiency)
 - **13+ years** of progressive experience across IoT, electrical engineering, infrastructure, and IT operations
 - Demonstrated ability to **bridge hardware and software** in complex system implementations
 
----
+
+
 
 ## Project Portfolio Summary
 
@@ -619,7 +627,7 @@ Intermediate (CEFR Level B1 – developing professional proficiency)
 - Environmental impact through reduced carbon footprint
 
 
----
+<br>
 
 ## Publications
 ### Professional Development Goals
@@ -641,7 +649,7 @@ Book language: English
   [>>**Download copy of the document**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->
 
----
+<br>
 
 ## Additional Information
 
@@ -651,6 +659,8 @@ Book language: English
 - Expand expertise in edge AI and machine learning integration with IoT systems
 - Develop thought leadership in sustainable energy monitoring and optimization
 
+<br>
+
 ### Interests & Passions
 - IoT technology innovation and practical applications
 - Building scalable, data-driven infrastructure solutions
@@ -658,22 +668,37 @@ Book language: English
 - Open-source technologies and community contribution
 - Renewable energy systems and sustainability
 
+<br>
+
 ### Professional Affiliations
 - Engineering Students' Association of Bangladesh (ESAB) – Member
 - The Institution of Engineers, Bangladesh (IEB) – Member
 - Technical University of Cologne (TH Köln) – Active postgraduate student
 - Cisco Learning Network – CCNA certified professional
 
+<br>
+
 ### Honors & awards
 - Best Cadet Award
 Issued by Bangladesh National Cadet Corps (BNCC) · Jan 2003
 
 
----
+<br>
 
 ## References
 
 References and detailed project documentation available upon request. Scanned certificates and experience letters can be provided in a supplementary portfolio folder.
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 
 ---
 
