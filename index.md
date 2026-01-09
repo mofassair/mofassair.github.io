@@ -44,7 +44,9 @@ title:
 
 
 ## Professional Summary
+
 ---
+
 I am an IoT and Edge Systems Engineer with over 7 years of experience in energy systems, building automation, and communication technologies. I specialize in designing, deploying, and maintaining multi-site LoRaWAN infrastructures, integrating BACnet and InfluxDB systems, and developing Python-based ETL pipelines for real-time data analytics. My expertise includes Dockerized edge deployments, network reliability, and secure remote connectivity using WireGuard VPN. With a strong foundation in electrical and electronic engineering, I am passionate about creating scalable, data-driven solutions that enhance energy efficiency, reliability, and sustainability.
 
 I have worked in diverse roles across IT operations, electrical systems engineering, and hardware design, supporting mission-critical environments in energy optimization, infrastructure, and renewable energy projects. My career spans Bangladesh and Germany, where I have led cross-functional teams, optimized systems for performance, and reduced operational costs through innovative automation and integration.

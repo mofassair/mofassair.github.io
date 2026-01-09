@@ -4,8 +4,8 @@ title: downloads
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="text-decoration: none; font-size: 1.5rem; color: #333;">
-    🏠
+  <a href="/" style="text-decoration: none; font-size: 2.5rem; color: #333;">
+    HOME
   </a>
 </div>
 
@@ -21,7 +21,9 @@ title: downloads
 <br >
 
 ## CV
+
 ---
+
 | Documents | Files |
 |-----------|----------|
 | CV in German language | [**Download**](documents/CV/CV_Bhuiyan_DE_IoT_EEE.pdf) |
@@ -32,7 +34,9 @@ title: downloads
 <br >
 
 ## Professional Experience Timeline
+
 ---
+
 | Tenure | Designation | Company | Location | File |
 |--------|-------------|---------|----------|------|
 | **2022 – Present** | IT-Fachkraft (IoT & Edge Systems) | Teo-tschakrow Energie Optimierung | Köln, Germany | [**Download**](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf) |
@@ -47,7 +51,9 @@ title: downloads
 <br >
 
 ## Education
+
 ---
+
 | Degree | Institution | Year | Download |
 |--------|-------------|------|----------|
 | M.Sc. Communication Systems and Networks | Technical University of Cologne (TH Köln), Germany | 2020–Present | [**Transcript**](documents/academic/Th_koln_transcript.pdf) |
@@ -59,7 +65,9 @@ title: downloads
 <br >
 
 ## 🧾 Certifications Downloads
+
 ---
+
 | Certification | Issuer | Year | Download |
 |---------------|--------|------|----------|
 | CCNA: Introduction to Networks | Cisco | 2021 | [**Download**](documents/online_course/CCNAv7.pdf) |
