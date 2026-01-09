@@ -11,7 +11,7 @@ title: downloads
 
 <br>
 
-# 📁 Download Center & Portfolio
+# 📁 Download Center
 
 **Welcome to my download center.** Here you can download my CVs, certificates, transcripts, and experience documents. For further information contact me via email.
 
@@ -20,7 +20,7 @@ title: downloads
 <br>
 <br >
 
-# 📄 CV
+## CV
 ---
 | Documents | Files |
 |-----------|----------|
@@ -31,7 +31,7 @@ title: downloads
 <br >
 <br >
 
-## 📋 Professional Experience Timeline
+## Professional Experience Timeline
 ---
 | Tenure | Designation | Company | Location | File |
 |--------|-------------|---------|----------|------|
@@ -46,7 +46,7 @@ title: downloads
 <br >
 <br >
 
-## 🎓 Education
+## Education
 ---
 | Degree | Institution | Year | Download |
 |--------|-------------|------|----------|
@@ -68,3 +68,5 @@ title: downloads
 | Solar Energy (ET3034TUx) | Delft University | 2013 | [**Download**](documents/online_course/SolarEnergy.pdf) |
 | Basics of Microcontroller | IEEE Student Branch | 2013 | [**Download**](documents/online_course/microcontroller.pdf) |
 
+<br >
+<br >
