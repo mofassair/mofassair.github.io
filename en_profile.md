@@ -1,7 +1,8 @@
 ---
-layout: home
-title: 
+layout: English Portfolio
+title: Portfolio in English
 ---
+
 
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
@@ -42,11 +43,6 @@ title:
 
 <br>
 
-Proceed to the full portfolio in:/ Weiter zum vollständigen Portfolio unter:  
-[>>**English**<<](/en_profile/) 
-<br>
-[>>**deutsches**<<](/de_profile/) 
-<br>
 
 ## Professional Summary
 
