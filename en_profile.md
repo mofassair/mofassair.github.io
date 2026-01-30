@@ -3,7 +3,6 @@ layout: English Portfolio
 title: Portfolio in English
 ---
 
-
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 
@@ -13,7 +12,7 @@ title: Portfolio in English
       MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
     </h1>
     <p>
-      IoT & Edge Systems Engineer | Electrical & Systems Specialist
+      IoT & Infrastructure Engineer focused on building monitoring, energy systems and secure edge deployments
     </p>
   </div>
   

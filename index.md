@@ -47,7 +47,7 @@ title:
 
 <!-- Portfolio Buttons -->
 <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 3rem;">
-  <a href="/en_profile/" style="
+  <a href="en_profile" style="
     display: flex;
     align-items: center;
     justify-content: center;
@@ -67,7 +67,7 @@ title:
     Portfolio in English
   </a>
   
-  <a href="/de_profile/" style="
+  <a href="de_profile" style="
     display: flex;
     align-items: center;
     justify-content: center;
