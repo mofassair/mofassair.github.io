@@ -3,10 +3,6 @@ layout: Deutsch Portfolio
 title: Portfolio auf Deutsch
 ---
 
----
-layout: English Portfolio
-title: Portfolio in English
----
 
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
