@@ -706,23 +706,6 @@ Sprache: Englisch
 
 ## Weitere Informationen
 
-### Berufliche Entwicklungsziele
-- Abschluss des Masterstudiums Communication Systems and Networks (TH Köln)
-- Ausbau der Deutschkenntnisse bis zur beruflichen Handlungssicherheit (derzeit B1-Niveau)
-- Erweiterung der Kompetenzen im Bereich Edge AI und Machine Learning für IoT-Systeme
-- Aufbau fachlicher Sichtbarkeit im Bereich nachhaltiges Energiemonitoring und -optimierung
-
-<br>
-
-### Interessen & Motivation
-- Innovationen im Bereich IoT und deren praktische Anwendung
-- Aufbau skalierbarer, datengetriebener Infrastrukturlösungen
-- Verbindung von Hardware-Engineering und Software-Automatisierung
-- Open-Source-Technologien und Community-Beiträge
-- Erneuerbare Energien und Nachhaltigkeit
-
-<br>
-
 ### Mitgliedschaften
 - Engineering Students' Association of Bangladesh (ESAB) – Mitglied
 - The Institution of Engineers, Bangladesh (IEB) – Mitglied
@@ -735,6 +718,21 @@ Sprache: Englisch
 - Best Cadet Award  
 Verliehen durch Bangladesh National Cadet Corps (BNCC) · Januar 2003
 
+
+<br>
+
+### Berufliche Entwicklungsziele
+- Abschluss des Masterstudiums Communication Systems and Networks (TH Köln)
+- Ausbau der Deutschkenntnisse bis zur beruflichen Handlungssicherheit (derzeit B1-Niveau)
+- Erweiterung der Kompetenzen im Bereich Edge AI und Machine Learning für IoT-Systeme
+
+
+<br>
+
+### Interessen & Motivation
+- Innovationen im Bereich IoT und deren praktische Anwendung
+- Aufbau skalierbarer, datengetriebener Infrastrukturlösungen
+- Verbindung von Hardware-Engineering und Software-Automatisierung
 
 <br>
 
@@ -758,4 +756,4 @@ Gescanntes Zeugnis- und Zertifikatsmaterial kann in einem ergänzenden Portfolio
 
 *Portfolio zuletzt aktualisiert: Januar 2026*  
 *Erstellt am: 07. Januar 2026*  
-*Kontakt: bhuiyan.mofassair@gmail.com*
+

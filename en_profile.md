@@ -686,23 +686,6 @@ Book language: English
 
 ## Additional Information
 
-### Professional Development Goals
-- Complete Master's degree in Communication Systems and Networks (TH Köln)
-- Advance German language proficiency to professional fluency (currently B1 level)
-- Expand expertise in edge AI and machine learning integration with IoT systems
-- Develop thought leadership in sustainable energy monitoring and optimization
-
-<br>
-
-### Interests & Passions
-- IoT technology innovation and practical applications
-- Building scalable, data-driven infrastructure solutions
-- Bridging hardware engineering and software automation
-- Open-source technologies and community contribution
-- Renewable energy systems and sustainability
-
-<br>
-
 ### Professional Affiliations
 - Engineering Students' Association of Bangladesh (ESAB) – Member
 - The Institution of Engineers, Bangladesh (IEB) – Member
@@ -715,6 +698,20 @@ Book language: English
 - Best Cadet Award
 Issued by Bangladesh National Cadet Corps (BNCC) · Jan 2003
 
+
+<br>
+
+### Professional Development Goals
+- Complete Master's degree in Communication Systems and Networks (TH Köln)
+- Advance German language proficiency to professional fluency (currently B1 level)
+- Expand expertise in edge AI and machine learning integration with IoT systems
+
+
+<br>
+
+### Interests & Passions
+- IoT technology innovation and practical applications
+- Bridging hardware engineering and software automation
 
 <br>
 
@@ -734,8 +731,6 @@ References and detailed project documentation available upon request. Scanned ce
 
 
 ---
-
-
 
 *Portfolio Last Updated: January 2026*  
 *Date Prepared: January 07, 2026*
