@@ -3,8 +3,24 @@ layout: default
 title: Downloads
 ---
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="text-decoration: none; font-weight: bold; font-size: 1.2rem; border: 2px solid #333; padding: 0.5rem 1rem; border-radius: 5px;">
+<div style="display: flex; gap: 1rem; justify-content: center; margin: 2rem 0;">
+  <a href="/" style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 50px;
+    background-color: transparent;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    box-sizing: border-box;
+  " onmouseover="this.style.backgroundColor='#e0e0e0'" onmouseout="this.style.backgroundColor='transparent'">
     HOME
   </a>
 </div>
