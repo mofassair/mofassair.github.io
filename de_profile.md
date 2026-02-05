@@ -311,8 +311,6 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 - Forschungsschwerpunkte: IoT, Netzwerke, Edge Computing
 - Relevante Inhalte: Fortgeschrittene Netzwerkprotokolle, verteilte Systeme, drahtlose Kommunikation, Systemarchitektur
 
-*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  [>>**Download**<<](documents/academic/Th_koln_transcript.pdf)
 
 <br>
 
@@ -505,7 +503,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 - Planung einer **standortübergreifenden LoRaWAN-Infrastruktur** für Energiemonitoring im Enterprise-Umfeld
 - Aufbau von **Grafana-Dashboards** für Echtzeit-Transparenz für Stakeholder
 
-
+<br>
 
 
 ## Projektportfolio – Übersicht
@@ -531,7 +529,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 - Optimierung der Sensorbatterielaufzeit um 30 % durch ADR
 - Reduzierung manueller Zählerablesung um 100 % (automatisiert)
 
----
+<br>
 
 ### 2. Infrastrukturprojekt für eine staatliche Entwicklungsbank
 **Zeitraum:** 2022 – heute  
@@ -552,7 +550,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 - Sichere Fernwartung und Troubleshooting
 - Automatisierte Backups und Disaster-Recovery
 
----
+<br>
 
 ### 3. IoT- & BACnet-Integration im Enterprise-Umfeld
 **Zeitraum:** 2022 – heute
@@ -570,7 +568,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 - 40 % Reduktion operativen Aufwands durch Automatisierung
 - Skalierbare Architektur für Erweiterungen
 
----
+<br>
 
 ### 4. WireGuard VPN Mesh Netzwerkarchitektur
 **Zeitraum:** 2022 – heute
@@ -589,7 +587,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 - Reduzierte Angriffsfläche durch VPN-Isolation
 - Sichere Fernwartung
 
----
+<br>
 
 ### 5. Solarbetriebenes Bewässerungssystem
 **Zeitraum:** November 2013 – November 2014  
@@ -609,7 +607,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 - Reduzierung der Betriebskosten
 - Skalierbares Konzept für ländliche Regionen
 
----
+<br>
 
 ### 6. Energieeffizientes LED-Beleuchtungssystem
 **Zeitraum:** November 2013 – November 2014  
@@ -633,6 +631,7 @@ Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)
 <br>
 
 ## Publikationen
+---
 ### Berufliche Entwicklungsziele
 - Green Street and Transport using Super-Capacitor
 LAP LAMBERT Academic Publishing · 20. März 2020
@@ -655,7 +654,7 @@ Buchsprache: Englisch
 <br>
 
 ## Zusätzliche Informationen
-
+---
 ### Berufliche Mitgliedschaften
 - Engineering Students' Association of Bangladesh (ESAB) – Mitglied
 - The Institution of Engineers, Bangladesh (IEB) – Mitglied

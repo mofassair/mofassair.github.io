@@ -511,7 +511,7 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - **13+ years** of progressive experience across IoT, electrical engineering, infrastructure, and IT operations
 - Demonstrated ability to **bridge hardware and software** in complex system implementations
 
-
+<br>
 
 
 ## Project Portfolio Summary
@@ -537,7 +537,7 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - Optimized sensor battery life by 30% through ADR tuning
 - Reduced manual meter reading by 100% (automated)
 
----
+<br>
 
 ### 2. Government Development Bank Infrastructure Project
 **Timeline:** 2022-Present  
@@ -558,7 +558,7 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - Secure remote management and troubleshooting capabilities
 - Automated backup and disaster recovery systems
 
----
+<br>
 
 ### 3. Enterprise-Scale IoT & BACnet Integration
 **Timeline:** 2022-Present
@@ -576,7 +576,7 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - 40% reduction in operational overhead through automation
 - Scalable architecture enabling rapid expansion
 
----
+<br>
 
 ### 4. WireGuard VPN Mesh Network Architecture
 **Timeline:** 2022-Present
@@ -595,7 +595,7 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - Reduced attack surface through VPN-based isolation
 - Enabled secure remote troubleshooting
 
----
+<br>
 
 ### 5. Solar-Powered Irrigation System
 **Timeline:** November 2013 – November 2014  
@@ -615,7 +615,7 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - Reduced agricultural operational costs
 - Scalable model for deployment in rural areas
 
----
+<br>
 
 ### 6. Energy-Efficient LED Lighting System
 **Timeline:** November 2013 – November 2014  
@@ -635,10 +635,12 @@ Basic (CEFR Level A2.1 – developing professional proficiency)
 - Rapid payback through operational savings
 - Environmental impact through reduced carbon footprint
 
-
 <br>
 
+
+
 ## Publications
+---
 ### Professional Development Goals
 - Green Street and Transport using Super-Capacitor
 LAP LAMBERT Academic Publishing · Mar 20, 2020
@@ -662,7 +664,7 @@ Book language: English
 <br>
 
 ## Additional Information
-
+---
 ### Professional Affiliations
 - Engineering Students' Association of Bangladesh (ESAB) – Member
 - The Institution of Engineers, Bangladesh (IEB) – Member
