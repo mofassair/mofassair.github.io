@@ -405,14 +405,7 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 - Praxisorientierte Schulung zu LoRaWAN durch Branchenexperten
 - Gateway-Konfiguration, Sensorintegration und reale Einsatzszenarien
 - Erweiterte Themen zur Planung und Optimierung von LoRaWAN-Netzen
-<!-- certificate and files 
-*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  <a href="documents/online_course/CCNAv7.pdf">
-    <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
-  </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/CCNAv7.pdf)
-certificate and files -->
 
 **A Practical Introduction to the BACnet Protocol**  
 *Udemy, 2023*
