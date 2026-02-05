@@ -57,48 +57,22 @@ Ich habe in unterschiedlichen Rollen in den Bereichen IT-Betrieb, Elektrotechnik
 
 ---
 
-### Technische Infrastruktur & IoT
-- Entwurf und Implementierung von standortübergreifenden LoRaWAN-Infrastrukturen
-- Integration und Optimierung von IoT-Sensorlandschaften
-- Integration von Gebäudeautomationssystemen (BACnet)
-- Edge-Computing und Architektur verteilter Systeme
-- Funkfeldmessungen (RF-Site-Surveys) und Antennenkalibrierung
-- Optimierung und Abstimmung von ADR (Adaptive Data Rate)
-- Konfiguration und Betrieb von LoRaWAN-Gateways verschiedener Hersteller
+### IoT & Monitoring
+- LoRaWAN-Design und -Implementierung, RF-Optimierung, ADR-Tuning, Multi-Vendor-Gateways
+- BACnet-Integration, Edge Computing, Sensor-Ökosysteme
 
-### Software & Automatisierung
-- Entwicklung von Python-basierten ETL-Pipelines (Extract, Transform, Load)
-- Automatisierungsskripte (Linux Bash, Shell-Automatisierung)
-- Docker-Containerisierung und Deployment-Frameworks
-- Versionsverwaltung mit Git sowie CI/CD-Workflows
-- Datenbankmanagement (InfluxDB, SQL)
-- Echtzeit-Datenvisualisierung (Grafana-Dashboards)
-- Konfiguration und Betrieb von WireGuard-VPN-Mesh-Netzwerken
+### Software & Daten
+- Python-ETL-Pipelines, Docker, Git CI/CD
+- InfluxDB-Zeitreihendaten, Grafana-Dashboards
 
-### Elektro- und Hardware-Engineering
-- Entwurf von Schaltplänen und Blockdiagrammen
-- Hardware-Validierung und Tests von Embedded-Systemen
-- Erstellung elektrischer Schaltpläne und Verdrahtungsdokumentationen
-- AutoCAD- und R&I-Fließbilder (P&ID – Rohrleitungs- und Instrumentenfließschema)
-- Schaltungssimulation mit PSPICE und Proteus
-- Hardware-Fehleranalyse und Ursachenanalyse
+### Netzwerke & Sicherheit
+- WireGuard-VPN-Mesh, TCP/IP LAN/WAN, Monitoring und Alarmierung
 
-### IT-Betrieb & Support
-- 2nd-Level-IT-Support und Infrastrukturbetreuung
-- Systemadministration für Windows- und Linux-Umgebungen
-- Netzwerkadministration (TCP/IP, LAN/WAN, drahtlose Protokolle)
-- Geräteverwaltung mit Microsoft Intune (UEM)
-- Hardware-Lebenszyklusmanagement und Beschaffung
-- Incident-Analyse und Eskalationssupport
-- ITIL-basierte Ticket- und Supportprozesse
+### Elektrotechnik / Hardware
+- Schaltpläne und P&ID (AutoCAD), Sensorvalidierung, Schaltungssimulation (PSPICE)
 
-### Ingenieurwissenschaftliche Grundlagen
-- Erneuerbare Energiesysteme (Solar, Wind, LED-Effizienz)
-- Optimierung von Energiespeichersystemen
-- Netzwerksicherheit und sicherer Fernzugriff
-- Systemüberwachung und Fehlererkennung
-- Backup-Architekturen und Sicherstellung der Datenintegrität
-
+### Betrieb & IT
+- 2nd-Level-Support (Windows/Linux), Intune, ITIL-basiertes Troubleshooting
 
 <br>
 

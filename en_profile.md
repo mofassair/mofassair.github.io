@@ -83,6 +83,7 @@ My work includes building containerized edge deployments using Docker and implem
 
 ### Ops & IT
 - L2 support (Win/Linux), Intune, ITIL troubleshooting
+
 <br>
 
 ## Professional Experience Timeline
