@@ -1,5 +1,5 @@
 ---
-layout: English Portfolio
+layout: default
 title: Portfolio in English
 ---
 
