@@ -27,7 +27,6 @@ I deliver reliable monitoring and automation solutions for energy and infrastruc
   </div>
 </div>
 
-<br>
 
 ### Contact Information:
 **Email:** bhuiyan.mofassair@gmail.com  
@@ -35,7 +34,7 @@ I deliver reliable monitoring and automation solutions for energy and infrastruc
 **LinkedIn:** linkedin.com/in/mofassair  
 **GitHub:** github.com/mofassair
 
-<hr style="margin: 3rem 0;">
+<hr style="margin: 1rem 0;">
 
 <!-- Portfolio Buttons -->
 <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 3rem;">
