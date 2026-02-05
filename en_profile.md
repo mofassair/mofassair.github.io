@@ -3,6 +3,16 @@ layout: English Portfolio
 title: Portfolio in English
 ---
 
+<style>
+.doc-thumb {
+  width: 180px;
+  height: auto;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  display: block;
+}
+</style>
+
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 
@@ -165,7 +175,7 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf">
-    <img src="documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
@@ -227,7 +237,7 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/work_exp/exp_cert_Summit.pdf">
-    <img src="documents/work_exp/exp_cert_Summit.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/work_exp/exp_cert_Summit.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
 
@@ -250,7 +260,7 @@ Early-stage engineering role focused on R&D, technical design, and international
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/work_exp/exp_cert_EZZY.pdf">
-    <img src="documents/work_exp/exp_cert_EZZY.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/work_exp/exp_cert_EZZY.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
@@ -272,7 +282,7 @@ Hands-on exposure to electrical supply operations and distribution systems.
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/work_exp/exp_cert_Desco_Intern.pdf">
-    <img src="documents/work_exp/exp_cert_Desco_Intern.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/work_exp/exp_cert_Desco_Intern.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
@@ -300,7 +310,7 @@ Technical specialist role developing and deploying renewable energy and automati
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/work_exp/exp_cert_E_Lab.pdf">
-    <img src="documents/work_exp/exp_cert_E_Lab.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/work_exp/exp_cert_E_Lab.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
@@ -331,7 +341,7 @@ Technical specialist role developing and deploying renewable energy and automati
 - **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
 
   <a href="documents/academic/MEng_cert.pdf">
-    <img src="documents/academic/MEng_cert.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/academic/MEng_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/academic/MEng_cert.pdf)
 
@@ -345,7 +355,7 @@ Technical specialist role developing and deploying renewable energy and automati
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/academic/BSc_cert.pdf">
-    <img src="documents/academic/BSc_cert.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/academic/BSc_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/academic/BSc_cert.pdf)
 
@@ -368,7 +378,7 @@ Technical specialist role developing and deploying renewable energy and automati
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/CCNAv7.pdf">
-    <img src="documents/online_course/CCNAv7.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
 <!-- certificate and files -->
@@ -382,7 +392,7 @@ Technical specialist role developing and deploying renewable energy and automati
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/CCNAv7.pdf">
-    <img src="documents/online_course/CCNAv7.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
 certificate and files -->
@@ -396,7 +406,7 @@ certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/BACnet.pdf">
-    <img src="documents/online_course/BACnet.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/online_course/BACnet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/online_course/BACnet.pdf)
 <!-- certificate and files -->
@@ -414,7 +424,7 @@ certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/MITX_6.002x.pdf">
-    <img src="documents/online_course/MITX_6.002x.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/online_course/MITX_6.002x.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/online_course/MITX_6.002x.pdf)
 <!-- certificate and files -->
@@ -428,7 +438,7 @@ certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/SolarEnergy.pdf">
-    <img src="documents/online_course/SolarEnergy.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/online_course/SolarEnergy.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/online_course/SolarEnergy.pdf)
 <!-- certificate and files -->
@@ -440,7 +450,7 @@ certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/microcontroller.pdf">
-    <img src="documents/online_course/microcontroller.png" alt="document" class="doc-thumb" />
+    <img src="documents/online_course/microcontroller.png" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
@@ -674,7 +684,7 @@ Book language: English
 *lINK to the <strong>publication</strong> is as under:*
 
   <a href="https://a.co/d/iMNvAEB">
-    <img src="documents/mixed/publication_greenstreet.jpg" alt="document" class="doc-thumb" />
+    <img src="documents/mixed/publication_greenstreet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download copy of the document**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->

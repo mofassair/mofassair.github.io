@@ -3,7 +3,6 @@ layout: Deutsch Portfolio
 title: Portfolio auf Deutsch
 ---
 
-
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 
@@ -191,7 +190,9 @@ IoT-Infrastrukturingenieur für mittelgroße, standortübergreifende Energie- un
 > LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Netzwerkarchitektur
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg)  
+  <a href="documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf">
+    <img src="documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
 
@@ -251,7 +252,9 @@ Leitende technische Rolle im operativen Betrieb zur Koordination umfangreicher I
 > Sicherstellung eines stabilen und wirtschaftlichen Betriebs der Unternehmensinfrastruktur für mehrere tausend Mitarbeitende und geschäftskritische Abläufe.
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  ![document](documents/work_exp/exp_cert_Summit.jpg)  
+  <a href="documents/work_exp/exp_cert_Summit.pdf">
+    <img src="documents/work_exp/exp_cert_Summit.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_Summit.pdf)
 
 <br>
@@ -272,7 +275,9 @@ Einstiegsposition im Bereich Engineering mit Fokus auf Forschung & Entwicklung, 
 - Unterstützung bei Systementwürfen und Machbarkeitsstudien
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  ![document](documents/work_exp/exp_cert_EZZY.jpg)  
+  <a href="documents/work_exp/exp_cert_EZZY.pdf">
+    <img src="documents/work_exp/exp_cert_EZZY.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
 
@@ -292,7 +297,9 @@ Praktische Einblicke in den Betrieb von Energieversorgungs- und Verteilnetzen.
 - Unterstützung von Außeneinsätzen und Systemüberwachung
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
+  <a href="documents/work_exp/exp_cert_Desco_Intern.pdf">
+    <img src="documents/work_exp/exp_cert_Desco_Intern.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
 <br>
@@ -318,7 +325,9 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 - Beitrag zu nachhaltiger und energieautarker Versorgung
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
+  <a href="documents/work_exp/exp_cert_E_Lab.pdf">
+    <img src="documents/work_exp/exp_cert_E_Lab.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
 <br>
@@ -347,7 +356,9 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 
 - **Schwerpunkte:** Netzwerkarchitekturen, Kommunikationssysteme, Signalverarbeitung, Telekommunikationstechnik
 
-  ![document](documents/academic/MEng_cert.jpg)  
+  <a href="documents/academic/MEng_cert.pdf">
+    <img src="documents/academic/MEng_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/academic/MEng_cert.pdf)
 
 <br>
@@ -359,7 +370,9 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 - **Schwerpunkte:** Schaltungstechnik, Elektronik, Regelungstechnik, Energietechnik, Elektromagnetik, Embedded Systems
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  ![document](documents/academic/BSc_cert.jpg)  
+  <a href="documents/academic/BSc_cert.pdf">
+    <img src="documents/academic/BSc_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/academic/BSc_cert.pdf)
 
 
@@ -380,7 +393,9 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  ![document](documents/online_course/CCNAv7.jpg)  
+  <a href="documents/online_course/CCNAv7.pdf">
+    <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/CCNAv7.pdf)
 <!-- certificate and files -->
 
@@ -392,7 +407,9 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 <!-- certificate and files 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  ![document](documents/online_course/CCNAv7.jpg)  
+  <a href="documents/online_course/CCNAv7.pdf">
+    <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/CCNAv7.pdf)
 certificate and files -->
 
@@ -404,7 +421,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  ![document](documents/online_course/BACnet.jpg)  
+  <a href="documents/online_course/BACnet.pdf">
+    <img src="documents/online_course/BACnet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/BACnet.pdf)
 <!-- certificate and files -->
 
@@ -420,7 +439,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  ![document](documents/online_course/MITX_6.002x.jpg)  
+  <a href="documents/online_course/MITX_6.002x.pdf">
+    <img src="documents/online_course/MITX_6.002x.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/MITX_6.002x.pdf)
 <!-- certificate and files -->
 
@@ -432,7 +453,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  ![document](documents/online_course/SolarEnergy.jpg)  
+  <a href="documents/online_course/SolarEnergy.pdf">
+    <img src="documents/online_course/SolarEnergy.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/SolarEnergy.pdf)
 <!-- certificate and files -->
 
@@ -442,7 +465,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
-  ![document](documents/online_course/microcontroller.png)  
+  <a href="documents/online_course/microcontroller.pdf">
+    <img src="documents/online_course/microcontroller.png" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
 <br>
@@ -677,7 +702,9 @@ Sprache: Englisch
 <!-- certificate and files -->
 *Link zur <strong>Publikation</strong>:*
 
-  ![document](documents/mixed/publication_greenstreet.jpg)  
+  <a href="https://a.co/d/iMNvAEB">
+    <img src="documents/mixed/publication_greenstreet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
+  </a>
   [>>**Kopie des Dokuments herunterladen**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->
 
