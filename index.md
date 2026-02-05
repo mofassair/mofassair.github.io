@@ -14,19 +14,18 @@ title:
     <p>
       IoT & Edge Systems Engineer | Electrical & Systems Specialist
     </p>
-    With over 7 years of hands-on experience in IoT, energy systems, and building automation, I work on connected monitoring and infrastructure solutions, including LoRaWAN-based deployments, for complex operational environments. My background combines electrical engineering and practical IT operations, supporting reliable and secure deployments for energy and infrastructure projects in Germany and Bangladesh.
+    <p>
+      With over 7 years of hands-on experience in IoT, energy systems, and building automation, I work on connected monitoring and infrastructure solutions, including LoRaWAN-based deployments, for complex operational environments. My background combines electrical engineering and practical IT operations, supporting reliable and secure deployments for energy and infrastructure projects in Germany and Bangladesh.
+    </p>
 
-I deliver reliable monitoring and automation solutions for energy and infrastructure environments in Germany and Bangladesh.
 
   </div>
-  
   <!-- Right: Profile Photo -->
   <div style="flex-shrink: 0;">
     <img src="documents/mixed/profile_photo.png" alt="Profile Photo" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;">
   </div>
 </div>
-
 
 ### Contact Information:
 **Email:** bhuiyan.mofassair@gmail.com  
