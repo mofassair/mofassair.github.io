@@ -21,9 +21,6 @@ title: Portfolio auf Deutsch
     <h1>
       MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
     </h1>
-    <p>
-      IoT- und Infrastrukturingenieur mit Fokus auf Gebäudeüberwachung, Energiesysteme und sichere Edge-Deployments
-    </p>
   </div>
   
   <!-- Right: Profile Photo -->
@@ -41,9 +38,6 @@ title: Portfolio auf Deutsch
 **IoT & Edge Systems Engineer | Electrical & Systems Specialist**
 -->
 
-<br>
-
-### Kontaktinformationen
 **E-Mail:** bhuiyan.mofassair@gmail.com  
 **Website:** mofassair.github.io  
 **LinkedIn:** linkedin.com/in/mofassair  
