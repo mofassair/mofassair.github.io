@@ -64,7 +64,6 @@ My work includes building containerized edge deployments using Docker and implem
 <br>
 
 ## Core Competencies
-
 ---
 
 ### IoT & Monitoring
@@ -104,7 +103,6 @@ My work includes building containerized edge deployments using Docker and implem
 <br>
 
 ## Detailed Professional Experience
-
 ---
 
 ### IT-Fachkraft (IoT & Edge Systems)
@@ -112,8 +110,9 @@ My work includes building containerized edge deployments using Docker and implem
 **June 2022 – Present**
 
 #### Scope
+```
 IoT infrastructure engineer responsible for mid-scale, multi-site energy and facility monitoring systems supporting critical public and government infrastructure.
-
+```
 #### Key Achievements
 
 **LoRaWAN Infrastructure Deployment & Optimization**
