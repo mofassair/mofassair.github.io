@@ -177,7 +177,7 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
   <a href="documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf">
     <img src="documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
 
 <br>
@@ -239,7 +239,7 @@ Senior technical operations manager coordinating large-scale infrastructure supp
   <a href="documents/work_exp/exp_cert_Summit.pdf">
     <img src="documents/work_exp/exp_cert_Summit.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_Summit.pdf)
 
 <br>
 <br>
@@ -262,7 +262,7 @@ Early-stage engineering role focused on R&D, technical design, and international
   <a href="documents/work_exp/exp_cert_EZZY.pdf">
     <img src="documents/work_exp/exp_cert_EZZY.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_EZZY.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
 
 <br>
@@ -284,7 +284,7 @@ Hands-on exposure to electrical supply operations and distribution systems.
   <a href="documents/work_exp/exp_cert_Desco_Intern.pdf">
     <img src="documents/work_exp/exp_cert_Desco_Intern.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
 <br>
 <br>
@@ -312,7 +312,7 @@ Technical specialist role developing and deploying renewable energy and automati
   <a href="documents/work_exp/exp_cert_E_Lab.pdf">
     <img src="documents/work_exp/exp_cert_E_Lab.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
 <br>
 <br>
@@ -330,7 +330,7 @@ Technical specialist role developing and deploying renewable energy and automati
 - **Relevant Coursework:** Advanced network protocols, distributed systems, wireless communication, system architecture
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  [>>**Download copy of the document**<<](documents/academic/Th_koln_transcript.pdf)
+  [>>**Download**<<](documents/academic/Th_koln_transcript.pdf)
 
 <br>
 
@@ -340,10 +340,11 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
 
-  <a href="documents/academic/MEng_cert.pdf">
+*Relevant <strong>Documents</strong> related to the activity:*
+<a href="documents/academic/MEng_cert.pdf">
     <img src="documents/academic/MEng_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/academic/MEng_cert.pdf)
+  [>>**Download**<<](documents/academic/MEng_cert.pdf)
 
 <br>
 
@@ -357,7 +358,7 @@ Technical specialist role developing and deploying renewable energy and automati
   <a href="documents/academic/BSc_cert.pdf">
     <img src="documents/academic/BSc_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/academic/BSc_cert.pdf)
+  [>>**Download**<<](documents/academic/BSc_cert.pdf)
 
 
 <br>
@@ -376,11 +377,10 @@ Technical specialist role developing and deploying renewable energy and automati
 
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
-
   <a href="documents/online_course/CCNAv7.pdf">
     <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
+  [>>**Download**<<](documents/online_course/CCNAv7.pdf)
 <!-- certificate and files -->
 
 **The Things Academy: Hands On with LoRaWAN®**  
@@ -394,7 +394,7 @@ Technical specialist role developing and deploying renewable energy and automati
   <a href="documents/online_course/CCNAv7.pdf">
     <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
+  [>>**Download**<<](documents/online_course/CCNAv7.pdf)
 certificate and files -->
 
 **A Practical Introduction to the BACnet Protocol**  
@@ -408,7 +408,7 @@ certificate and files -->
   <a href="documents/online_course/BACnet.pdf">
     <img src="documents/online_course/BACnet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/online_course/BACnet.pdf)
+  [>>**Download**<<](documents/online_course/BACnet.pdf)
 <!-- certificate and files -->
 
 <br>
@@ -426,7 +426,7 @@ certificate and files -->
   <a href="documents/online_course/MITX_6.002x.pdf">
     <img src="documents/online_course/MITX_6.002x.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/online_course/MITX_6.002x.pdf)
+  [>>**Download**<<](documents/online_course/MITX_6.002x.pdf)
 <!-- certificate and files -->
 
 **ET3034TUx: Solar Energy**  
@@ -440,7 +440,7 @@ certificate and files -->
   <a href="documents/online_course/SolarEnergy.pdf">
     <img src="documents/online_course/SolarEnergy.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/online_course/SolarEnergy.pdf)
+  [>>**Download**<<](documents/online_course/SolarEnergy.pdf)
 <!-- certificate and files -->
 
 **Basics of Microcontroller**  
@@ -452,7 +452,7 @@ certificate and files -->
   <a href="documents/online_course/microcontroller.pdf">
     <img src="documents/online_course/microcontroller.png" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
+  [>>**Download**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
 
 <br>
@@ -686,7 +686,7 @@ Book language: English
   <a href="https://a.co/d/iMNvAEB">
     <img src="documents/mixed/publication_greenstreet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Download copy of the document**<<](https://a.co/d/iMNvAEB)
+  [>>**Download**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->
 
 <br>

@@ -356,6 +356,7 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 
 - **Schwerpunkte:** Netzwerkarchitekturen, Kommunikationssysteme, Signalverarbeitung, Telekommunikationstechnik
 
+*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/academic/MEng_cert.pdf">
     <img src="documents/academic/MEng_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
