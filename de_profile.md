@@ -29,20 +29,11 @@ title: Portfolio auf Deutsch
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;">
   </div>
 </div>
-<!-- Photo and Name -->
 
-<!-- Comment out 
-![document](documents/mixed/profile_photo.png)  
-
-### MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
-**IoT & Edge Systems Engineer | Electrical & Systems Specialist**
--->
-
-**E-Mail:** bhuiyan.mofassair@gmail.com  
+**E-Mail:** bhuiyan.mofassair@gmail.com   
 **Website:** mofassair.github.io  
 **LinkedIn:** linkedin.com/in/mofassair  
 **GitHub:** github.com/mofassair
-
 
 <br>
 
@@ -51,32 +42,31 @@ title: Portfolio auf Deutsch
 
 ---
 
-Ich bin IoT- und Edge-Systems-Ingenieur mit über 7 Jahren Erfahrung in Energiesystemen, Gebäudeautomation und Kommunikationstechnologien. Mein Schwerpunkt liegt in der Planung, dem Aufbau und dem Betrieb standortübergreifender LoRaWAN-Infrastrukturen, der Integration von BACnet- und InfluxDB-Systemen sowie der Entwicklung Python-basierter ETL-Pipelines für Echtzeit-Datenanalysen. Zu meinen Kernkompetenzen zählen containerisierte Edge-Deployments, Netzzuverlässigkeit sowie sichere Fernanbindungen über WireGuard-VPN. Auf Basis meiner fundierten elektrotechnischen Ausbildung entwickle ich skalierbare und datengetriebene Lösungen zur Steigerung von Energieeffizienz, Betriebssicherheit und Nachhaltigkeit.
+IoT- und Edge-Systems-Ingenieur mit über 7 Jahren Erfahrung in Energiesystemen, Gebäudeautomation und Kommunikationsinfrastrukturen. Ich war direkt an der Planung, Implementierung und dem Betrieb standortübergreifender LoRaWAN-Netze, an der Integration von BACnet-basierten Gebäudeautomationssystemen sowie an der Entwicklung von Python-ETL-Pipelines für Echtzeit- und historische Analysen mit InfluxDB und Grafana beteiligt.
 
-Ich habe in unterschiedlichen Rollen in den Bereichen IT-Betrieb, Elektrotechnik und Hardware-Engineering gearbeitet und dabei geschäftskritische Umgebungen in den Bereichen Energieoptimierung, Infrastruktur und erneuerbare Energien unterstützt. Meine berufliche Laufbahn erstreckt sich über Bangladesch und Deutschland, wo ich interdisziplinäre Teams unterstützt, Systeme leistungsfähig optimiert und Betriebskosten durch gezielte Automatisierung und Systemintegration reduziert habe.
+Meine Arbeit umfasst den Aufbau containerisierter Edge-Deployments mit Docker sowie die Implementierung eines sicheren Fernzugriffs über WireGuard-VPN. Mit einem akademischen Hintergrund in Elektro- und Elektronikingenieurwesen habe ich zu skalierbaren und zuverlässigen Monitoring- und Automatisierungslösungen für Energie- und Infrastrukturprojekte sowohl in Deutschland als auch in Bangladesch beigetragen.
 
 <br>
 
 ## Kernkompetenzen
-
 ---
 
 ### IoT & Monitoring
-- LoRaWAN-Design und -Implementierung, RF-Optimierung, ADR-Tuning, Multi-Vendor-Gateways
-- BACnet-Integration, Edge Computing, Sensor-Ökosysteme
+- LoRaWAN-Design/-Rollout, RF-Optimierung, ADR-Tuning, Gateways verschiedener Hersteller
+- BACnet-Integration, Edge Computing, Sensorökosysteme
 
 ### Software & Daten
 - Python-ETL-Pipelines, Docker, Git CI/CD
-- InfluxDB-Zeitreihendaten, Grafana-Dashboards
+- InfluxDB-Zeitreihen, Grafana-Dashboards
 
 ### Netzwerke & Sicherheit
-- WireGuard-VPN-Mesh, TCP/IP LAN/WAN, Monitoring und Alarmierung
+- WireGuard-VPN-Mesh, TCP/IP LAN/WAN, Monitoring/Alarmierung
 
-### Elektrotechnik / Hardware
-- Schaltpläne und P&ID (AutoCAD), Sensorvalidierung, Schaltungssimulation (PSPICE)
+### Elektrotechnik/Hardware
+- Schaltpläne/R&I (AutoCAD), Sensorvalidierung, Schaltungssimulation (PSPICE)
 
 ### Betrieb & IT
-- 2nd-Level-Support (Windows/Linux), Intune, ITIL-basiertes Troubleshooting
+- 2nd-Level-Support (Windows/Linux), Intune, ITIL-Troubleshooting
 
 <br>
 
@@ -90,14 +80,14 @@ Ich habe in unterschiedlichen Rollen in den Bereichen IT-Betrieb, Elektrotechnik
 | **2020 – 2022** | IT Support Engineer (Freelance) |   | Deutschland |
 | **2015 – 2020** | Deputy Manager | Summit Corporation Limited | Bangladesch |
 | **2014 – 2015** | Assistant Engineer | EZZY Group |  Bangladesch |
-| **2014 – 2014** | Praktikant | Dhaka Electric Supply Company (DESCO) | Bangladesch |
+| **2014 - 2014** | Praktikant | Dhaka Electric Supply Company (DESCO) | Bangladesch |
 | **2013 – 2014** | Executive Expert | E Lab Bangladesh Limited | Bangladesch |
+
 
 
 <br>
 
 ## Detaillierte Berufserfahrung
-
 ---
 
 ### IT-Fachkraft (IoT & Edge Systems)
@@ -105,64 +95,63 @@ Ich habe in unterschiedlichen Rollen in den Bereichen IT-Betrieb, Elektrotechnik
 *Juni 2022 – heute*
 
 #### Aufgabenbereich
-IoT-Infrastrukturingenieur für mittelgroße, standortübergreifende Energie- und Gebäudemonitoring-Systeme zur Unterstützung kritischer öffentlicher und staatlicher Infrastrukturen.
+IoT-Infrastrukturingenieur, verantwortlich für mittelgroße, standortübergreifende Energie- und Gebäudemonitoring-Systeme zur Unterstützung kritischer öffentlicher und staatlicher Infrastrukturen.
 
 #### Zentrale Erfolge
 
-**Bereitstellung und Optimierung von LoRaWAN-Infrastrukturen**
-- Planung, Implementierung und Betrieb standortübergreifender LoRaWAN-Infrastrukturen an zwei Universitätsstandorten sowie bei einer staatlichen Entwicklungsbank zur Echtzeitüberwachung von Energie- und Gebäudedaten in geschäftskritischen Umgebungen
-- Konfiguration und Optimierung von LoRaWAN-Gateways unterschiedlicher Hersteller durch:
-  - ADR-Optimierung (Adaptive Data Rate) zur Verbesserung der Übertragungsqualität
-  - Funkfeldmessungen (RF-Site-Surveys) und Ausbreitungsanalysen
+<u><em>Bereitstellung und Optimierung von LoRaWAN-Infrastrukturen</em></u>
+- Planung, Implementierung und Betrieb standortübergreifender LoRaWAN-Infrastrukturen an zwei Universitätskomplexen sowie bei einer staatlichen Entwicklungsbank, wodurch Echtzeit-Energie- und Gebäudemonitoring für geschäftskritische Abläufe ermöglicht wurde
+- Konfiguration und Optimierung von LoRaWAN-Gateways verschiedener Hersteller durch fortgeschrittene Maßnahmen:
+  - ADR (Automated Device Rate) Tuning für eine optimale Datenübertragung
+  - RF-(Radio Frequency)-Site-Surveys und Ausbreitungsanalysen
   - Antennenkalibrierung und optimierte Positionierung<br>
-  **Erreichte Leistungsverbesserungen:**<br>
-  -> Steigerung der RSSI-Werte (Received Signal Strength Indicator) um 25 %<br>
-  -> Verlängerung der Batterielaufzeit von Sensoren um 30 % durch optimierte Übertragungsparameter<br>
-  -> Erweiterung der Abdeckung auf zuvor nicht erreichbare Messpunkte
+  <u><em>Erzielte Leistungsverbesserungen:</em></u><br>
+  -> RSSI (Received Signal Strength Indicator) um 25 % verbessert<br>
+  -> Batterielaufzeit der Sensoren durch optimierte Übertragungsparameter um 30 % verlängert<br>
+  -> Abdeckung auf zuvor nicht erreichbare Messpunkte erweitert
 
-**Entwicklung Python-basierter Datenpipelines**
-- Konzeption und Entwicklung von Python-basierten ETL-Pipelines für ein automatisiertes, durchgängiges Datenmanagement:
-  - Automatisierte Datenerfassung aus unterschiedlichen IoT-Sensorquellen
-  - Datenaufbereitung und Validierungslogik
+<u><em>Entwicklung Python-basierter Datenpipelines</em></u><br>
+- Konzeption und Entwicklung von Python-ETL-Pipelines für ein automatisiertes End-to-End-Datenmanagement:
+  - Automatisierte Datenerfassung aus unterschiedlichen IoT-Sensoren
+  - Datentransformation und Validierungslogik
   - Persistente Speicherung in einer InfluxDB-Zeitreihendatenbank
-  - Integration in BACnet-basierte Gebäudeautomationssysteme
-- Aufbau von Echtzeit-KPI-Dashboards mit Grafana
-- Ermöglichung der Echtzeitüberwachung von Energieverbräuchen, Systemzuständen und Betriebskennzahlen für interne und externe Stakeholder
+  - Integration mit BACnet-Gebäudeautomationssystemen
+- Aufbau von Echtzeit-KPI-(Key Performance Indicator)-Dashboards mit Grafana
+- Ermöglichung der Echtzeitüberwachung von Energieverbrauch, Systemzustand und Betriebskennzahlen
 
-**Automatisierung und Betriebseffizienz**
-- Entwicklung von systemnahen Überwachungsskripten mit Heartbeat-Monitoring auf Linux-basierten Systemen
-- Umsetzung einer proaktiven Fehlererkennung und Alarmierung
-- Entwicklung und Pflege umfassender Automatisierungs- und Monitoring-Module:
-  - Automatisierte Erfassung von Zählerdaten
-  - Verarbeitung von Wetterdaten
+<u><em>Automatisierung & Betriebseffizienz</em></u><br>
+- Erstellung systemnaher Monitoring-Skripte mit Heartbeat-Überwachung auf Linux-basierten Knoten
+- Umsetzung eines hochverfügbaren Monitorings mit proaktiver Fehlererkennung und Alarmierung
+- Entwicklung und Pflege umfassender Automatisierungsskripte und Monitoring-Module:
+  - Automatisierung der Zählerdatenerfassung
+  - Pipelines zur Verarbeitung von Wetterdaten
   - Router-Überwachung und Zustandskontrolle
-  - Linux-Shell-Skripte für wiederkehrende Betriebsaufgaben<br>
-  **Operativer Nutzen:** <br>
-  -> Reduzierung manueller Tätigkeiten um 40 %, wodurch Ressourcen für strategische Aufgaben frei wurden
+  - Linux-Shell-Automatisierung für Routineaufgaben<br>
+    - <u>Operativer Effekt</u>: Reduzierung manueller Eingriffe um 40 %, sodass betriebliche Ressourcen stärker auf strategische Aufgaben fokussieren konnten.
 
 
-**Edge Computing & Containerisierung**
+<u><em>Edge Computing & Containerisierung</em></u>
 - Aufbau und Betrieb Docker-basierter Deployment-Frameworks für reproduzierbare Edge-Rollouts
 - Umsetzung versionskontrollierter Service-Updates und Konfigurationsverwaltung
 - Schnelle Replikation von Systemkonfigurationen über mehrere Standorte hinweg
 - Sicherstellung von Konsistenz und Zuverlässigkeit in verteilten Edge-Umgebungen
 
-**Sichere Netzwerkarchitektur**
+<u><em>Sichere Netzwerkarchitektur</em></u><br>
 - Konzeption und Implementierung einer WireGuard-VPN-Mesh-Infrastruktur:
-  - Konfiguration von Server- und Edge-VPN-Endpunkten
-  - Vernetzung verteilter Gateways über mehrere Standorte
-- Ermöglichung sicherer Fernwartung, verschlüsselter Telemetrieübertragung und zentraler Geräteverwaltung
-- Aufrechterhaltung eines hohen Sicherheitsniveaus bei gleichzeitigem Remote-Betrieb und Fehleranalyse
+  - Serverseitige und Edge-seitige VPN-Konfiguration
+  - Anbindung verteilter Gateways über mehrere Standorte
+- Ermöglichung sicherer Fernwartung, verschlüsselter Telemetrieübertragung und zentraler Geräteorchestrierung
+- Aufrechterhaltung der Sicherheitsanforderungen bei gleichzeitiger Fernbedienung und Troubleshooting
 
-**Datenintegrität & Betriebssicherheit**
-- Entwicklung einer hybriden Backup-Architektur mit Edge-Backups und NAS-Systemen (Network Attached Storage)
-- Sicherstellung von Redundanzen in der verteilten Infrastruktur
-- Unterstützung von Disaster-Recovery-Konzepten und Compliance-Anforderungen
-- Implementierung individueller Aufbewahrungsrichtlinien (Retention Policies)
+<u><em>Datenintegrität & Betriebskontinuität</em></u><br>
+- Aufbau einer hybriden Backup-Architektur aus Edge- und NAS-(Network Attached Storage)-Backups
+- Sicherstellung von Redundanz in der verteilten Infrastruktur
+- Unterstützung von Disaster-Recovery- und Compliance-Anforderungen
+- Implementierung einer benutzerdefinierten Retention Policy
 
 #### Projekte
 - **Öffentliche Universitätsinfrastruktur (zwei Standorte):** Gebäudeübergreifendes Energie- und Gebäudemonitoring mit koordinierten LoRaWAN-Sensornetzwerken
-- **Deutsche staatliche Entwicklungsbank:** Unternehmensweite Infrastruktur mit hohen Anforderungen an Verfügbarkeit und Betriebssicherheit
+- **Deutsche staatliche Entwicklungsbank:** Infrastruktur in Enterprise-Größe mit hohen Anforderungen an Verfügbarkeit
 
 #### Technische Umgebung
 > LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Netzwerkarchitektur
@@ -171,10 +160,8 @@ IoT-Infrastrukturingenieur für mittelgroße, standortübergreifende Energie- un
   <a href="documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf">
     <img src="documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
-
-<br>
 <br>
 
 ### IT Support Engineer
@@ -182,15 +169,15 @@ IoT-Infrastrukturingenieur für mittelgroße, standortübergreifende Energie- un
 *Juli 2020 – Juni 2022*
 
 #### Aufgabenbereich
-Vor-Ort-2nd-Level-IT-Support für multinationale Unternehmensumgebungen sowie Kunden aus der Automobilindustrie in zeitkritischen und hochverfügbaren Betriebsumgebungen.
+Vor-Ort-2nd-Level-IT-Support für multinationale Unternehmensumgebungen und Kunden aus der Automobilindustrie, inkl. Desktop- und Infrastruktursupport in zeitkritischen, hochverfügbaren Betriebsumgebungen.
 
 #### Zentrale Tätigkeiten
-- Vor-Ort-IT-Support in Unternehmensumgebungen mit hohen Verfügbarkeitsanforderungen
-- Einrichtung von Arbeitsplatzsystemen, Betriebssysteminstallationen und Hardwareaustausch
-- Diagnose und Behebung von Hardwarefehlern
-- Unterstützung von Netzwerk- und Peripheriegeräten
-- Anwenderorientierter technischer Support in zeitkritischen Betriebssituationen
-- Sicherstellung der Servicekontinuität für geschäftskritische Systeme
+- Vor-Ort-IT-Support für Unternehmensumgebungen mit hohen Verfügbarkeitsanforderungen
+- Einrichtung von Arbeitsplätzen, Betriebssysteminstallation und Hardwaretausch
+- Hardware-Fehlerdiagnose und -behebung
+- Netzwerk- und Peripheriesupport
+- Anwenderorientierter Support in zeitkritischen Betriebssituationen
+- Sicherstellung der Servicekontinuität für geschäftskritische Abläufe
 
 #### Technische Umgebung
 > Windows, Linux, macOS, Netzwerkadministration, Hardware-Troubleshooting, Anwendersupport
@@ -203,38 +190,38 @@ Vor-Ort-2nd-Level-IT-Support für multinationale Unternehmensumgebungen sowie Ku
 *März 2015 – Juni 2020*
 
 #### Aufgabenbereich
-Leitende technische Rolle im operativen Betrieb zur Koordination umfangreicher Infrastrukturunterstützung für ein großes Unternehmen mit komplexen elektro-mechanischen und IT-Systemen.
+Leitender technischer Betriebsmanager zur Koordination großskaliger Infrastrukturunterstützung für ein großes Unternehmen mit komplexen elektro-mechanischen und IT-Systemen.
 
 #### Zentrale Erfolge
 
-**Technisches Infrastrukturmanagement**
-- Koordination und Sicherstellung des zuverlässigen 24/7-Betriebs von elektro-mechanischen und IT-Systemen
-- Planung und Umsetzung von Reparatur- und präventiven Wartungsprogrammen zur Minimierung ungeplanter Ausfallzeiten
-- Etablierung von technischen Supportprozessen und Eskalationsverfahren
+<u><em>Technisches Infrastrukturmanagement</em></u>
+- Koordination einer umfassenden technischen Infrastrukturunterstützung zur Sicherstellung eines zuverlässigen 24/7-Betriebs elektro-mechanischer und IT-Systeme
+- Steuerung von Reparatur- und präventiven Wartungsprogrammen zur Minimierung ungeplanter Ausfälle
+- Etablierung von Supportprotokollen und Eskalationsverfahren
 
-**Geräte-Lebenszyklus & Beschaffung**
-- Verantwortung für Beschaffung, Integration und Inbetriebnahme technischer Anlagen und Betriebsmittel
-- Durchführung von Lieferantenverhandlungen und technischer Bewertung von Lösungen
-- Steuerung von Inbetriebnahmen und Abnahmen
-- Pflege von Inventar- und Lebenszyklusdokumentationen
+<u><em>Lifecycle-Management & Beschaffung</em></u>
+- Steuerung von Beschaffung, Integration und Rollout technischer Anlagen und Betriebsmittel
+- Führung von Lieferantenverhandlungen und technische Evaluierung von Lösungen
+- Management von Inbetriebnahmen und Validierungen
+- Pflege von Inventar- und Lifecycle-Dokumentation
 
-**Projektleitung über Fachbereiche hinweg**
-- Leitung komplexer, fachübergreifender Infrastrukturprojekte mit Fokus auf:
-  - Systemplanung und Implementierung
-  - Kostenoptimierung und Ressourceneinsatz
-  - Koordination externer Dienstleister und technischer Spezifikationen
-  - Projektplanung und Terminsteuerung
-- Erfolgreiche Umsetzung mehrerer größerer Infrastrukturprojekte innerhalb von Budget und Zeitrahmen
-- Enge Zusammenarbeit mit internen Fachabteilungen und externen Partnern
+<u><em>Fachbereichsübergreifende Projektleitung</em></u>
+- Leitung komplexer, fachbereichsübergreifender Infrastrukturprojekte, inkl.:
+  - Systemdesign und Implementierung
+  - Kostenoptimierung und Ressourcenallokation
+  - Lieferantenkoordination und technische Spezifikationen
+  - Ressourcen- und Terminplanung
+- Erfolgreiche Umsetzung mehrerer großer Infrastrukturinitiativen innerhalb von Budget und Zeit
+- Zusammenarbeit mit internen Abteilungen und externen Dienstleistern
 
 #### Wirkung
-> Sicherstellung eines stabilen und wirtschaftlichen Betriebs der Unternehmensinfrastruktur für mehrere tausend Mitarbeitende und geschäftskritische Abläufe.
+> Sicherstellung von Betriebszuverlässigkeit und Kosteneffizienz für eine Unternehmensinfrastruktur mit mehreren tausend Mitarbeitenden und geschäftskritischen Prozessen.
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/work_exp/exp_cert_Summit.pdf">
     <img src="documents/work_exp/exp_cert_Summit.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_Summit.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_Summit.pdf)
 
 <br>
 <br>
@@ -244,20 +231,20 @@ Leitende technische Rolle im operativen Betrieb zur Koordination umfangreicher I
 *November 2014 – Februar 2015*
 
 #### Aufgabenbereich
-Einstiegsposition im Bereich Engineering mit Fokus auf Forschung & Entwicklung, technisches Design und internationale Zusammenarbeit.
+Einstiegsrolle im Engineering mit Fokus auf F&E, technischem Design und internationaler Zusammenarbeit.
 
 #### Zentrale Tätigkeiten
-- Durchführung von Forschungs- und Entwicklungsarbeiten an Automatisierungs- und Steuergeräten
-- Erstellung technischer Konzepte für Automatisierungs- und Steuerungslösungen
-- Durchführung technischer Präsentationen für interne und externe Stakeholder
-- Zusammenarbeit mit internationalen Engineering-Partnern
-- Unterstützung bei Systementwürfen und Machbarkeitsstudien
+- Durchführung von F&E zu Automatisierungs- und Steuergeräten sowie Bewertung neuer Technologien und Anwendungen
+- Erstellung technischer Pläne für Automatisierungs- und Steuerungsimplementierungen
+- Durchführung technischer Präsentationen für Stakeholder
+- Pflege der technischen Zusammenarbeit mit internationalen Engineering-Partnern
+- Unterstützung von Systemdesign und Machbarkeitsstudien
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/work_exp/exp_cert_EZZY.pdf">
     <img src="documents/work_exp/exp_cert_EZZY.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_EZZY.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
 
 <br>
@@ -268,18 +255,18 @@ Einstiegsposition im Bereich Engineering mit Fokus auf Forschung & Entwicklung, 
 *März 2014 – April 2014*
 
 #### Aufgabenbereich
-Praktische Einblicke in den Betrieb von Energieversorgungs- und Verteilnetzen.
+Praktische Einblicke in den Betrieb der Energieversorgung und elektrischer Verteilnetze.
 
 #### Zentrale Tätigkeiten
-- Unterstützung bei operativen Tätigkeiten im Bereich Stromverteilung und Instandhaltung
-- Erwerb praktischer Kenntnisse über den Betrieb elektrischer Versorgungsinfrastruktur
-- Unterstützung von Außeneinsätzen und Systemüberwachung
+- Unterstützung bei operativen Aufgaben im Zusammenhang mit Stromverteilung und Instandhaltung
+- Praktische Einblicke in den Betrieb elektrischer Infrastruktur
+- Unterstützung von Außeneinsätzen und Systemmonitoring
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/work_exp/exp_cert_Desco_Intern.pdf">
     <img src="documents/work_exp/exp_cert_Desco_Intern.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
 <br>
 <br>
@@ -293,21 +280,21 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 
 #### Zentrale Erfolge
 
-**Energieeffiziente Beleuchtungslösungen**
-- Entwicklung von LED-basierten Beleuchtungskonzepten mit einer Reduktion des Energieverbrauchs von bis zu 30 %
-- Verbesserung der Betriebseffizienz und Reduzierung der CO₂-Emissionen
-- Erstellung von Wirtschaftlichkeitsanalysen und Umsetzungsempfehlungen
+<u><em>Energieeffiziente Beleuchtungslösungen</em></u>
+- Entwicklung LED-basierter Beleuchtungskonzepte mit 30 % Energieeinsparung
+- Verbesserung der Betriebseffizienz und Reduzierung des CO₂-Fußabdrucks
+- Erstellung von Kosten-Nutzen-Analysen und Umsetzungsempfehlungen
 
-**Solarbetriebene Bewässerungssysteme**
-- Planung und Installation eines vollständig solargestützten, mobilen Bewässerungssystems
-- Integration von erneuerbarer Energieerzeugung in eine praxisnahe landwirtschaftliche Anwendung
-- Beitrag zu nachhaltiger und energieautarker Versorgung
+<u><em>Solarbetriebene Bewässerung</em></u>
+- Planung und Installation eines vollständigen, solarbetriebenen mobilen Bewässerungssystems
+- Integration erneuerbarer Energieerzeugung in eine praktische landwirtschaftliche Anwendung
+- Beitrag zu Nachhaltigkeit und Energieunabhängigkeit
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/work_exp/exp_cert_E_Lab.pdf">
     <img src="documents/work_exp/exp_cert_E_Lab.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/work_exp/exp_cert_E_Lab.pdf)
+  [>>**Download**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
 <br>
 <br>
@@ -320,12 +307,12 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 **Technische Hochschule Köln (TH Köln), Köln, Deutschland**  
 **März 2020 – heute**
 
-- **Status:** 2 Module sowie Masterarbeit ausstehend
-- **Forschungsschwerpunkte:** IoT, Netzwerke, Edge Computing
-- **Relevante Inhalte:** Fortgeschrittene Netzwerkprotokolle, verteilte Systeme, drahtlose Kommunikation, Systemarchitektur
+- Status: 2 Module und Masterarbeit ausstehend
+- Forschungsschwerpunkte: IoT, Netzwerke, Edge Computing
+- Relevante Inhalte: Fortgeschrittene Netzwerkprotokolle, verteilte Systeme, drahtlose Kommunikation, Systemarchitektur
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  [>>**Kopie des Dokuments herunterladen**<<](documents/academic/Th_koln_transcript.pdf)
+  [>>**Download**<<](documents/academic/Th_koln_transcript.pdf)
 
 <br>
 
@@ -333,13 +320,13 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesch**  
 **2018**
 
-- **Schwerpunkte:** Netzwerkarchitekturen, Kommunikationssysteme, Signalverarbeitung, Telekommunikationstechnik
+- Schwerpunkte: Netzwerkarchitektur, Kommunikationssysteme, Signalverarbeitung, Telekommunikationstechnik
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-  <a href="documents/academic/MEng_cert.pdf">
+<a href="documents/academic/MEng_cert.pdf">
     <img src="documents/academic/MEng_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/academic/MEng_cert.pdf)
+  [>>**Download**<<](documents/academic/MEng_cert.pdf)
 
 <br>
 
@@ -347,13 +334,13 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesch**  
 **2014**
 
-- **Schwerpunkte:** Schaltungstechnik, Elektronik, Regelungstechnik, Energietechnik, Elektromagnetik, Embedded Systems
+- Schwerpunkte: Schaltungsdesign, Elektronik, Regelungstechnik, Energietechnik, Elektromagnetik, Embedded Systems
 
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/academic/BSc_cert.pdf">
     <img src="documents/academic/BSc_cert.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/academic/BSc_cert.pdf)
+  [>>**Download**<<](documents/academic/BSc_cert.pdf)
 
 
 <br>
@@ -366,39 +353,37 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 
 **CCNA: Introduction to Networks**  
 *Ausgestellt von Cisco, 2021*
-- Umfassende Grundlagen der Netzwerktechnik mit praktischen Laborübungen
-- TCP/IP-Protokollfamilie, LAN/WAN-Architekturen und Netzwerkanalyse
-- Branchenweit anerkanntes Zertifikat zur Bestätigung von Netzwerkkenntnissen
+- Umfassende Netzwerkgrundlagen und praktische Lab-Erfahrung
+- TCP/IP-Protokollfamilie, LAN/WAN-Architektur, Netzwerkanalyse und Troubleshooting
+- Branchenweit anerkanntes Zertifikat zur Bestätigung professioneller Netzwerkkompetenz
 
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-
   <a href="documents/online_course/CCNAv7.pdf">
     <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/CCNAv7.pdf)
+  [>>**Download**<<](documents/online_course/CCNAv7.pdf)
 <!-- certificate and files -->
 
 **The Things Academy: Hands On with LoRaWAN®**  
 *Udemy, 2023*
-- Praxisorientierte Schulung zu LoRaWAN durch Branchenexperten
-- Gateway-Konfiguration, Sensorintegration und reale Einsatzszenarien
-- Erweiterte Themen zur Planung und Optimierung von LoRaWAN-Netzen
+- Praxisorientiertes LoRaWAN-Training von Branchenexperten
+- Gateway-Konfiguration, Sensorintegration, reale Deployment-Szenarien
+- Vertiefte Themen zur Planung und Optimierung von LoRaWAN-Netzen
 
 
 **A Practical Introduction to the BACnet Protocol**  
 *Udemy, 2023*
-- Umfassende Einführung in die Integration von BACnet-Systemen
-- Gebäudeautomation, HLK-Systeme und Facility-Management
-- Praktische Umsetzung und Fehlersuche
-<!-- certificate and files -->
-*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
+- Umfassendes Training zur BACnet-Systemintegration
+- Gebäudeautomation, HLK-Steuerung, Facility-Management
+- Praktische Umsetzung und Troubleshooting
 
+
+*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/online_course/BACnet.pdf">
     <img src="documents/online_course/BACnet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/BACnet.pdf)
-<!-- certificate and files -->
+  [>>**Download**<<](documents/online_course/BACnet.pdf)
 
 <br>
 
@@ -406,80 +391,78 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 
 **Circuits and Electronics (6.002x)**  
 *Massachusetts Institute of Technology (MIT), 2013*
-- Elektrotechnische Grundlagen auf Universitätsniveau
-- Schaltungsanalyse, Bauteilverhalten und praxisorientierter Schaltungsentwurf
+- Elektrotechnische Grundlagen auf MIT-Niveau
+- Schaltungsanalyse, Bauteilverhalten, praktischer Schaltungsentwurf
 - Grundlage für Embedded Systems und Hardwareentwicklung
 <!-- certificate and files -->
 *Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
-
   <a href="documents/online_course/MITX_6.002x.pdf">
     <img src="documents/online_course/MITX_6.002x.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/MITX_6.002x.pdf)
-<!-- certificate and files -->
+  [>>**Download**<<](documents/online_course/MITX_6.002x.pdf)
+
 
 **ET3034TUx: Solar Energy**  
 *Delft University of Technology (Online), 2013*
 - Photovoltaiksysteme und Technologien für erneuerbare Energien
-- Systemauslegung, Effizienzoptimierung und praktische Anwendungen
+- Systemauslegung, Effizienzoptimierung, praktische Anwendungen
 - Grundlage für Tätigkeiten im Bereich erneuerbare Energien
-<!-- certificate and files -->
-*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
 
+*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/online_course/SolarEnergy.pdf">
     <img src="documents/online_course/SolarEnergy.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/SolarEnergy.pdf)
-<!-- certificate and files -->
+  [>>**Download**<<](documents/online_course/SolarEnergy.pdf)
+
 
 **Basics of Microcontroller**  
 *IEEE Student Branch, 2013*
-- Systemgrundlagen, Optimierung und praktische Anwendungen von Mikrocontrollern
-<!-- certificate and files -->
-*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
+- System, Optimierung und praktische Anwendungen von Mikrocontrollern
 
+*Relevante <strong>Dokumente</strong> zu dieser Tätigkeit:*
   <a href="documents/online_course/microcontroller.pdf">
     <img src="documents/online_course/microcontroller.png" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](documents/online_course/microcontroller.pdf)
-<!-- certificate and files -->
+  [>>**Download**<<](documents/online_course/microcontroller.pdf)
+
+
 <br>
 
-## Zusammenfassung der technischen Fähigkeiten
+## Zusammenfassung technischer Fähigkeiten
 
 ---
 
-### IoT- & Konnektivitätsprotokolle
+### IoT & Konnektivitätsprotokolle
 - **LoRaWAN:** Planung standortübergreifender Infrastrukturen, Gateway-Konfiguration, ADR-Optimierung, RF-Site-Surveys, Antennenkalibrierung
 - **BACnet:** Integration von Gebäudeautomationssystemen, HLK-Steuerung, Facility-Management-Systeme
 - **Netzwerkprotokolle:** TCP/IP, LAN/WAN, drahtlose Protokolle, WireGuard VPN
 
 ### Softwareentwicklung & Skripting
-- **Python:** Entwicklung von ETL-Pipelines, Automatisierungsskripte, Datenverarbeitung, Systemintegration
+- **Python:** ETL-Pipeline-Entwicklung, Automatisierungsskripte, Datenverarbeitung, Systemintegration
 - **C++:** Grundkenntnisse, Embedded Systems
 - **Linux/Bash:** Shell-Skripting, Systemadministration, Automatisierung, Monitoring
 
 ### Daten & Visualisierung
 - **Datenbanken:** InfluxDB (Zeitreihendaten), SQL
 - **Visualisierung:** Grafana-Dashboards, KPI-Monitoring, Echtzeitanalysen
-- **Datenverarbeitung:** ETL-Frameworks, Datentransformation und -validierung
+- **Datenverarbeitung:** ETL-Frameworks, Datentransformation, Validierung
 
 ### Infrastruktur & DevOps
-- **Containerisierung:** Docker, containerbasierte Deployment-Frameworks
+- **Containerisierung:** Docker, containerisierte Deployment-Frameworks
 - **Versionsverwaltung:** Git, CI/CD-Workflows
-- **Netzwerkarchitektur:** WireGuard VPN, sicherer Fernzugriff, Mesh-Netzwerke
-- **Systemmonitoring:** Heartbeat-Überwachung, Alarmsysteme, Fehlererkennung
+- **Netzwerkarchitektur:** WireGuard VPN, sicherer Fernzugriff, Mesh Networking
+- **Systemmonitoring:** Heartbeat-Monitoring, Alarmsysteme, Fehlererkennung
 
 ### Elektro- & Hardware-Engineering
-- **Entwurf:** Schaltungsdesign, Blockdiagramme, elektrische Schaltpläne, R&I-Fließbilder (P&ID)
-- **Werkzeuge:** AutoCAD, PSPICE, Proteus
-- **Hardware:** Embedded Systems, Sensorintegration, Hardwarevalidierung und -tests
+- **Design:** Schaltungsdesign, Blockdiagramme, elektrische Schaltpläne, R&I (P&ID)
+- **Tools:** AutoCAD, PSPICE, Proteus
+- **Hardware:** Embedded Systems, Sensorintegration, Hardwarevalidierung, Tests
 - **SPS:** Grundkenntnisse in Programmierung und Steuerungslogik
 
 ### IT-Betrieb & Support
 - **Systemadministration:** Windows, Linux, macOS
 - **Geräteverwaltung:** Microsoft Intune (UEM)
-- **Support:** 2nd-Level-Support, Incident-Analyse, Troubleshooting
+- **Support:** 2nd-Level-IT-Support, Incident-Analyse, Troubleshooting
 - **Netzwerke:** Netzwerkadministration, Konfiguration, drahtlose Systeme
 
 ### Erneuerbare Energien & Nachhaltigkeit
@@ -495,11 +478,11 @@ Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erne
 ---
 
 **Englisch**  
-Fließend (verhandlungssicher)
+Fließend (Professional Business Proficiency)
 
 **Deutsch**  
-Grundkenntnisse (GER-Niveau A2.1 – im Aufbau beruflicher Sprachkompetenz)  
-*Derzeit im Sprachtraining zur Verbesserung der beruflichen Einsatzfähigkeit in einem deutschsprachigen Arbeitsumfeld*
+Grundkenntnisse (GER-Niveau A2.1 – Ausbau der beruflichen Sprachkompetenz)  
+*Derzeit im Sprachtraining zur Verbesserung der Karrierechancen im deutschsprachigen Umfeld*
 
 
 <br>
@@ -509,25 +492,21 @@ Grundkenntnisse (GER-Niveau A2.1 – im Aufbau beruflicher Sprachkompetenz)
 ---
 
 ### Infrastruktur- & Betriebsergebnisse
-- **25 % Verbesserung** der RSSI-Werte durch Optimierung der LoRaWAN-Infrastruktur
-- **30 % längere** Batterielaufzeit von Sensoren durch ADR-Optimierung und angepasste Übertragungsparameter
-- **40 % Reduktion** manueller Tätigkeiten durch Automatisierung und Monitoring
-- **99,9 %+ Verfügbarkeit** im Betrieb standortübergreifender Infrastrukturen für öffentliche Einrichtungen und Universitäten
+- **25 % Verbesserung** der RSSI-Werte durch LoRaWAN-Optimierung
+- **30 % längere** Batterielaufzeit der Sensoren durch ADR-Tuning und Optimierung der Übertragungsparameter
+- **40 % Reduktion** manueller Tätigkeiten durch Automatisierungsskripte und Monitoring
+- **99,9 % + Verfügbarkeit** im Betrieb standortübergreifender Infrastrukturen für staatliche und universitäre Umgebungen
 - **Zwei große Infrastrukturprojekte** erfolgreich im öffentlichen und privaten Sektor umgesetzt
 
-### Nachgewiesene technische Kompetenz
-- Erfolgreiche Konzeption und Implementierung einer **WireGuard-VPN-Mesh-Infrastruktur** für sichere verteilte Systeme
-- Entwicklung und Betrieb **Python-basierter ETL-Pipelines** zur kontinuierlichen Verarbeitung von IoT-Daten
+### Nachgewiesene technische Expertise
+- Erfolgreiche Implementierung einer **WireGuard-VPN-Mesh-Infrastruktur** für sichere verteilte Abläufe
+- Entwicklung und Betrieb **Python-basierter ETL-Pipelines** zur Verarbeitung kontinuierlicher IoT-Datenströme
 - Umsetzung einer **hybriden Backup-Architektur** zur Sicherstellung der Datenintegrität in verteilten Edge-Umgebungen
-- Planung und Betrieb einer **standortübergreifenden LoRaWAN-Infrastruktur** für unternehmensweites Energiemonitoring
-- Entwicklung von **Grafana-Dashboards** zur Echtzeitüberwachung für technische und fachliche Stakeholder
+- Planung einer **standortübergreifenden LoRaWAN-Infrastruktur** für Energiemonitoring im Enterprise-Umfeld
+- Aufbau von **Grafana-Dashboards** für Echtzeit-Transparenz für Stakeholder
 
-### Berufliche Weiterentwicklung
-- Aktuelles Masterstudium im Bereich **Communication Systems and Networks** an der Technischen Hochschule Köln (TH Köln)
-- Kontinuierliche Weiterbildung durch **fachbezogene Zertifizierungen** (CCNA, LoRaWAN, BACnet, Solar Energy)
-- **13+ Jahre** Berufserfahrung in den Bereichen IoT, Elektrotechnik, Infrastruktur und IT-Betrieb
-- Nachweisliche Fähigkeit, **Hardware- und Software-Systeme** in integrierten Lösungen zusammenzuführen
-<br>
+
+
 
 ## Projektportfolio – Übersicht
 
@@ -537,21 +516,20 @@ Grundkenntnisse (GER-Niveau A2.1 – im Aufbau beruflicher Sprachkompetenz)
 **Zeitraum:** 2022 – heute  
 **Organisation:** Teo-tschakrow Energie Optimierung
 
-**Herausforderung:**  
-Ein Universitätskomplex benötigte eine Echtzeitüberwachung von Energie- und Gebäudedaten über mehrere Gebäude hinweg bei unterschiedlichen Funkbedingungen.
+**Herausforderung:** Universitätskomplex benötigte Echtzeit-Energie- und Gebäudemonitoring über mehrere Gebäude hinweg bei unterschiedlichen Funkbedingungen
 
 **Umgesetzte Lösung:**
-- Planung und Implementierung eines LoRaWAN-Sensornetzes für den gesamten Campus
+- Planung und Implementierung eines LoRaWAN-Sensornetzwerks für den gesamten Campus
 - Konfiguration von Gateways verschiedener Hersteller mit optimierter Funkabdeckung
-- Entwicklung von Python-basierten ETL-Pipelines zur automatisierten Zählerdatenerfassung
+- Entwicklung von Python-ETL-Pipelines zur automatisierten Zählerdatenerfassung
 - Aufbau von Grafana-Dashboards zur Visualisierung des Energieverbrauchs in Echtzeit
 - Implementierung automatisierter Alarme bei Verbrauchsanomalien und Systemereignissen
 
 **Ergebnisse:**
-- Echtzeit-Transparenz über Energieverbrauch und Betriebszustände
+- Echtzeit-Transparenz über Energieverbrauchsmuster
 - Unterstützung datenbasierter Entscheidungen im Facility Management
-- Optimierung der Batterielaufzeit der Sensoren um 30 % durch ADR
-- 100 % automatisierte Zählerdatenerfassung (keine manuelle Ablesung mehr)
+- Optimierung der Sensorbatterielaufzeit um 30 % durch ADR
+- Reduzierung manueller Zählerablesung um 100 % (automatisiert)
 
 ---
 
@@ -559,60 +537,57 @@ Ein Universitätskomplex benötigte eine Echtzeitüberwachung von Energie- und G
 **Zeitraum:** 2022 – heute  
 **Organisation:** Teo-tschakrow Energie Optimierung
 
-**Herausforderung:**  
-Eine staatliche Entwicklungsbank benötigte eine besonders sichere und hochverfügbare IoT-Infrastruktur mit strengen Datenschutz- und Verfügbarkeitsanforderungen.
+**Herausforderung:** Staatliche Entwicklungsbank benötigte eine besonders sichere und zuverlässige IoT-Infrastruktur mit strengen Datenschutz- und Verfügbarkeitsanforderungen
 
 **Umgesetzte Lösung:**
 - Aufbau einer sicheren LoRaWAN-Infrastruktur im Behördenumfeld
-- Konzeption und Implementierung einer WireGuard-VPN-Mesh-Infrastruktur für verschlüsselte Fernwartung
-- Einrichtung rollenbasierter Zugriffskontrollen (RBAC)
+- Aufbau einer WireGuard-VPN-Mesh-Infrastruktur für verschlüsseltes Remote-Management
+- Konfiguration rollenbasierter Zugriffskontrolle (RBAC)
 - Umsetzung einer hybriden Backup-Architektur (Edge + NAS)
-- Einführung einer systemnahen Überwachung mit proaktiver Alarmierung
+- Systemmonitoring mit proaktiver Alarmierung
 
 **Ergebnisse:**
-- Missionskritische Infrastruktur mit über 99,9 % Verfügbarkeit
-- Erfüllung der Sicherheits- und Datenschutzanforderungen
-- Sichere Fernwartung und Fehleranalyse
-- Automatisierte Backup- und Wiederherstellungsprozesse
+- Missionskritische Infrastruktur mit 99,9 % + Verfügbarkeit
+- Erfüllung der Sicherheitsanforderungen
+- Sichere Fernwartung und Troubleshooting
+- Automatisierte Backups und Disaster-Recovery
 
 ---
 
-### 3. Standortübergreifende IoT- und BACnet-Integration
+### 3. IoT- & BACnet-Integration im Enterprise-Umfeld
 **Zeitraum:** 2022 – heute
 
-**Herausforderung:**  
-Mehrere Liegenschaften benötigten eine einheitliche Überwachung von Gebäudeautomation und IoT-Systemen.
+**Herausforderung:** Mehrere Standorte benötigten eine einheitliche Gebäudeautomation und IoT-Überwachung über unterschiedliche Systeme hinweg
 
 **Umgesetzte Lösung:**
-- Integration von BACnet-Gebäudeautomationssystemen mit LoRaWAN-IoT-Sensoren
-- Aufbau einer einheitlichen Datenpipeline für heterogene Datenquellen
-- Entwicklung zentraler Grafana-Dashboards für mehrere Gebäude
-- Einführung eines Docker-basierten Deployment-Frameworks
+- Integration von BACnet-Gebäudeautomation mit LoRaWAN-IoT-Sensoren
+- Einheitliche Datenpipeline für heterogene Datenquellen
+- Zentrale Grafana-Dashboards für Multi-Building-Betrieb
+- Docker-basiertes Deployment-Framework für schnelle Rollouts
 
 **Ergebnisse:**
-- Zentrale Transparenz über Gebäudeautomation und IoT-Daten
-- 40 % Reduktion des operativen Aufwands durch Automatisierung
-- Skalierbare Architektur für zukünftige Erweiterungen
+- Einheitliche Transparenz über Gebäudeautomation und IoT-Systeme
+- 40 % Reduktion operativen Aufwands durch Automatisierung
+- Skalierbare Architektur für Erweiterungen
 
 ---
 
 ### 4. WireGuard VPN Mesh Netzwerkarchitektur
 **Zeitraum:** 2022 – heute
 
-**Herausforderung:**  
-Verteilte Edge-Geräte benötigten einen sicheren, authentifizierten Zugriff auf zentrale Systeme.
+**Herausforderung:** Verteilte Edge-Geräte benötigten sicheren, authentifizierten Zugriff auf zentrale Managementsysteme
 
 **Umgesetzte Lösung:**
-- Konzeption und Aufbau einer WireGuard-VPN-Mesh-Topologie
+- Design und Aufbau einer WireGuard-VPN-Mesh-Topologie
 - Konfiguration von Server- und Edge-Endpunkten
-- Umsetzung von Peer-to-Peer-Routing
-- Definition rollenbasierter Zugriffskonzepte
+- Peer-to-Peer-Routing
+- Richtlinien für rollenbasierte Zugriffe
 
 **Ergebnisse:**
-- Durchgehend verschlüsselte Kommunikation zwischen allen Systemen
-- Zentrale Verwaltung und Orchestrierung der Geräte
-- Reduzierte Angriffsfläche durch VPN-basierte Netztrennung
-- Sichere Fernwartung und Fehlerbehebung
+- Verschlüsselte Kommunikation über alle Edge-Systeme hinweg
+- Zentralisierte Geräteorchestrierung
+- Reduzierte Angriffsfläche durch VPN-Isolation
+- Sichere Fernwartung
 
 ---
 
@@ -620,19 +595,18 @@ Verteilte Edge-Geräte benötigten einen sicheren, authentifizierten Zugriff auf
 **Zeitraum:** November 2013 – November 2014  
 **Organisation:** E Lab Bangladesh Limited
 
-**Herausforderung:**  
-Landwirtschaftliche Regionen benötigten eine nachhaltige, netzunabhängige Bewässerungslösung.
+**Herausforderung:** Landwirtschaftliche Regionen benötigten eine nachhaltige, netzunabhängige Bewässerungslösung
 
 **Umgesetzte Lösung:**
-- Planung eines vollständigen photovoltaischen Systems
+- Planung eines vollständigen Photovoltaiksystems
 - Integration mit einer mobilen Bewässerungspumpe
-- Auslegung für autonomen und wetterabhängigen Betrieb
-- Minimale manuelle Eingriffe erforderlich
+- Optimierung für autonomen, wetterabhängigen Betrieb
+- Minimaler manueller Aufwand
 
 **Ergebnisse:**
-- Nachhaltiger und energieautarker Betrieb
-- Praxisnahe Anwendung erneuerbarer Energien
-- Reduzierung der Betriebskosten in der Landwirtschaft
+- Nachhaltiger, energieunabhängiger Betrieb
+- Praktischer Einsatz erneuerbarer Energien
+- Reduzierung der Betriebskosten
 - Skalierbares Konzept für ländliche Regionen
 
 ---
@@ -641,97 +615,79 @@ Landwirtschaftliche Regionen benötigten eine nachhaltige, netzunabhängige Bew�
 **Zeitraum:** November 2013 – November 2014  
 **Organisation:** E Lab Bangladesh Limited
 
-**Herausforderung:**  
-Industrie- und Gewerbebetriebe wollten ihren Energieverbrauch deutlich reduzieren.
+**Herausforderung:** Industrie- und Gewerbebetriebe wollten ihren Energieverbrauch senken
 
 **Umgesetzte Lösung:**
 - Analyse der bestehenden Beleuchtungsinfrastruktur
-- Planung und Auslegung eines LED-basierten Ersatzsystems
-- Optimierung hinsichtlich Effizienz und Lichtqualität
-- Erstellung eines Umsetzungsplans inklusive Wirtschaftlichkeitsbetrachtung
+- Planung eines LED-basierten Ersatzsystems
+- Optimierung von Effizienz und Lichtqualität
+- Umsetzungsfahrplan und Wirtschaftlichkeitsanalyse
 
 **Ergebnisse:**
-- **30 % Reduktion des Energieverbrauchs**
-- Verbesserte Lichtqualität und höhere Zuverlässigkeit
-- Schnelle Amortisation durch geringere Betriebskosten
-- Positiver Beitrag zur Reduzierung des CO₂-Ausstoßes
+- **30 % Energieeinsparung** erreicht
+- Verbesserte Lichtqualität und Zuverlässigkeit
+- Schnelle Amortisation durch Einsparungen
+- Reduzierter ökologischer Fußabdruck
 
 
 <br>
 
 ## Publikationen
 ### Berufliche Entwicklungsziele
-- Green Street and Transport using Super-Capacitor  
-LAP LAMBERT Academic Publishing · 20. März 2020  
-Verlag: LAP LAMBERT Academic Publishing  
-Herausgeber: lbucur  
-Veröffentlicht am: 03.07.2020  
-ISBN-13: 978-620-2-67348-8  
-ISBN-10: 6202673486  
-ISBN: 978-620-2-67348-8  
-EAN: 9786202673488  
-Sprache: Englisch
+- Green Street and Transport using Super-Capacitor
+LAP LAMBERT Academic Publishing · 20. März 2020
+Verlag: LAP LAMBERT Academic Publishing
+Herausgeber: lbucur
+Veröffentlicht am: 2020-07-03
+ISBN-13: 978-620-2-67348-8
+ISBN-10 : 6202673486
+ISBN: 978-620-2-67348-8
+EAN: 9786202673488
+Buchsprache: Englisch
 
-<!-- certificate and files -->
-*Link zur <strong>Publikation</strong>:*
 
+*lINK zur <strong>Publikation</strong> ist wie folgt:*
   <a href="https://a.co/d/iMNvAEB">
     <img src="documents/mixed/publication_greenstreet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
-  [>>**Kopie des Dokuments herunterladen**<<](https://a.co/d/iMNvAEB)
-<!-- certificate and files -->
+  [>>**Download**<<](https://a.co/d/iMNvAEB)
 
 <br>
 
-## Weitere Informationen
+## Zusätzliche Informationen
 
-### Mitgliedschaften
+### Berufliche Mitgliedschaften
 - Engineering Students' Association of Bangladesh (ESAB) – Mitglied
 - The Institution of Engineers, Bangladesh (IEB) – Mitglied
 - Technische Hochschule Köln (TH Köln) – Aktiver Masterstudent
 - Cisco Learning Network – CCNA-zertifizierter Teilnehmer
-
 <br>
 
 ### Auszeichnungen
-- Best Cadet Award  
-Verliehen durch Bangladesh National Cadet Corps (BNCC) · Januar 2003
-
-
+- Best Cadet Award
+Verliehen durch Bangladesh National Cadet Corps (BNCC) · Jan 2003
 <br>
 
 ### Berufliche Entwicklungsziele
 - Abschluss des Masterstudiums Communication Systems and Networks (TH Köln)
-- Ausbau der Deutschkenntnisse bis zur beruflichen Handlungssicherheit (derzeit B1-Niveau)
-- Erweiterung der Kompetenzen im Bereich Edge AI und Machine Learning für IoT-Systeme
-
-
+- Ausbau der Deutschkenntnisse bis zur beruflichen Sprachsicherheit (derzeit B1-Niveau)
+- Erweiterung der Expertise in Edge AI und Machine-Learning-Integration in IoT-Systeme
 <br>
 
-### Interessen & Motivation
-- Innovationen im Bereich IoT und deren praktische Anwendung
-- Aufbau skalierbarer, datengetriebener Infrastrukturlösungen
-- Verbindung von Hardware-Engineering und Software-Automatisierung
+### Interessen & Motivation 
+- Innovationen im Bereich IoT und deren praktische Anwendung 
+- Aufbau skalierbarer, datengetriebener Infrastrukturlösungen 
+- Verbindung von Hardware-Engineering und Software-Automatisierung <br> 
 
-<br>
+## Referenzen 
+Referenzen und detaillierte Projektdokumentationen sind auf Anfrage verfügbar. Gescanntes Zeugnis- und Zertifikatsmaterial kann in einem ergänzenden Portfolio-Ordner bereitgestellt werden. 
 
-## Referenzen
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
 
-Referenzen und detaillierte Projektdokumentationen sind auf Anfrage verfügbar.  
-Gescanntes Zeugnis- und Zertifikatsmaterial kann in einem ergänzenden Portfolio-Ordner bereitgestellt werden.
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-
----
-
-*Portfolio zuletzt aktualisiert: Januar 2026*  
-*Erstellt am: 07. Januar 2026*  
+--- 
+*Portfolio zuletzt aktualisiert: Januar 2026*   
+*Erstellt am: 07. Januar 2026*

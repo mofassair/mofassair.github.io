@@ -99,18 +99,18 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 
 #### Key Achievements
 
-**LoRaWAN Infrastructure Deployment & Optimization**
+<u><em>LoRaWAN Infrastructure Deployment & Optimization</em></u>
 - Designed, deployed, and maintained multi-site LoRaWAN infrastructures across two university complexes and a government-owned development bank, enabling real-time energy and facility monitoring for mission-critical operations
 - Configured and optimized multi-vendor LoRaWAN gateways through advanced techniques:
   - ADR (Automated Device Rate) tuning for optimal data transmission
   - RF (Radio Frequency) site surveys and propagation analysis
   - Antenna calibration and positioning optimization<br>
-  **Performance improvements achieved:**<br>
+  <u><em>Performance improvements achieved:</em></u><br>
   -> RSSI (Received Signal Strength Indicator) performance increased by 25%<br>
   -> Sensor battery life extended by 30% through optimized transmission parameters<br>
   -> Extended coverage to previously unreachable monitoring points
 
-**Python-Based Data Pipeline Development**
+<u><em>Python-Based Data Pipeline Development</em></u><br>
 - Architected and developed Python ETL pipelines for automated, end-to-end data management:
   - Automated data ingestion from diverse IoT sensors
   - Data transformation and validation logic
@@ -119,7 +119,7 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 - Built real-time KPI (Key Performance Indicator) visualization dashboards using Grafana
 - Enabled stakeholders to monitor energy consumption, system health, and operational metrics in real-time
 
-**Automation & Operations Efficiency**
+<u><em>Automation & Operations Efficiency</em></u><br>
 - Created system-level monitoring scripts with heartbeat alerts on Linux-based nodes
 - Achieved high-availability monitoring with proactive fault detection and alerting
 - Authored and maintained comprehensive automation scripts and monitoring modules:
@@ -127,24 +127,23 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
   - Weather data ingestion pipelines
   - Router supervision and health monitoring
   - Linux shell automation for routine operations<br>
-  **Operational impact:** <br>
-  -> Reduced manual intervention by 40%, allowing operational resources to focus on strategic initiatives.
+    - <u>Operational impact</u>: Reduced manual intervention by 40%, allowing operational resources to focus on strategic initiatives.
 
 
-**Edge Computing & Containerization**
+<u><em>Edge Computing & Containerization</em></u>
 - Built and managed Dockerized deployment frameworks for reproducible edge device rollouts
 - Implemented version-controlled service updates and configuration management
 - Enabled rapid replication of system configurations across multiple sites
 - Ensured consistency and reliability in distributed edge environments
 
-**Secure Network Architecture**
+<u><em>Secure Network Architecture</em></u><br>
 - Architected and deployed WireGuard VPN mesh network infrastructure:
   - Server-side and edge device VPN configuration
   - Connected distributed gateways across multiple sites
 - Enabled secure remote management, encrypted telemetry transfer, and centralized device orchestration
 - Maintained security posture while enabling remote operations and troubleshooting
 
-**Data Integrity & Business Continuity**
+<u><em>Data Integrity & Business Continuity</em></u><br>
 - Designed hybrid backup architecture combining edge-level and NAS (Network Attached Storage) backups
 - Maintained redundancy across distributed infrastructure
 - Supported disaster recovery and compliance requirements
@@ -163,8 +162,6 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
   </a>
   [>>**Download**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
-
-<br>
 <br>
 
 ### IT Support Engineer
@@ -197,18 +194,18 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 
 #### Key Achievements
 
-**Technical Infrastructure Management**
+<u><em>Technical Infrastructure Management</em></u>
 - Coordinated comprehensive technical infrastructure support ensuring reliable, 24/7 operation of electro-mechanical and IT systems
 - Managed repair and preventive maintenance programs minimizing unplanned downtime
 - Established technical support protocols and escalation procedures
 
-**Equipment Lifecycle & Procurement**
+<u><em>Equipment Lifecycle & Procurement</em></u>
 - Oversaw procurement, integration, and deployment of technical equipment and fixed assets for large-scale operations
 - Directed vendor negotiations and technology evaluation
 - Managed equipment commissioning and validation
 - Maintained asset inventory and lifecycle records
 
-**Cross-Functional Project Leadership**
+<u><em>Cross-Functional Project Leadership</em></u>
 - Directed complex, cross-functional infrastructure projects involving:
   - System design and deployment
   - Cost optimization and resource allocation
@@ -283,12 +280,12 @@ Technical specialist role developing and deploying renewable energy and automati
 
 #### Key Achievements
 
-**Energy-Efficient Lighting Solutions**
+<u><em>Energy-Efficient Lighting Solutions</em></u>
 - Developed LED-based lighting system designs achieving 30% energy consumption reduction
 - Improved operational efficiency and reduced carbon footprint
 - Provided cost-benefit analysis and implementation recommendations
 
-**Solar-Powered Irrigation System**
+<u><em>Solar-Powered Irrigation System</em></u>
 - Designed and installed complete solar-powered portable irrigation system
 - Integrated renewable energy generation with practical agricultural application
 - Demonstrated sustainability and energy independence
@@ -380,14 +377,13 @@ Technical specialist role developing and deploying renewable energy and automati
 - Comprehensive BACnet system integration training
 - Building automation, HVAC control systems, facility management
 - Practical implementation and troubleshooting techniques
-<!-- certificate and files -->
-*Relevant <strong>Documents</strong> related to the activity:*
 
+
+*Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/online_course/BACnet.pdf">
     <img src="documents/online_course/BACnet.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download**<<](documents/online_course/BACnet.pdf)
-<!-- certificate and files -->
 
 <br>
 
@@ -400,38 +396,35 @@ Technical specialist role developing and deploying renewable energy and automati
 - Foundation for embedded systems and hardware engineering
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
-
   <a href="documents/online_course/MITX_6.002x.pdf">
     <img src="documents/online_course/MITX_6.002x.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download**<<](documents/online_course/MITX_6.002x.pdf)
-<!-- certificate and files -->
+
 
 **ET3034TUx: Solar Energy**  
 *Delft University of Technology (Online), 2013*
 - Solar photovoltaic systems and renewable energy technology
 - System design, efficiency optimization, practical applications
 - Foundation for renewable energy engineering work
-<!-- certificate and files -->
-*Relevant <strong>Documents</strong> related to the activity:*
 
+*Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/online_course/SolarEnergy.pdf">
     <img src="documents/online_course/SolarEnergy.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download**<<](documents/online_course/SolarEnergy.pdf)
-<!-- certificate and files -->
+
 
 **Basics of Microcontroller**  
 *IEEE Student Branch, 2013*
 - System, optimization, practical applications of Microcontroller
-<!-- certificate and files -->
-*Relevant <strong>Documents</strong> related to the activity:*
 
+*Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/online_course/microcontroller.pdf">
     <img src="documents/online_course/microcontroller.png" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download**<<](documents/online_course/microcontroller.pdf)
-<!-- certificate and files -->
+
 
 <br>
 
@@ -690,7 +683,9 @@ Issued by Bangladesh National Cadet Corps (BNCC) · Jan 2003
 
 ## Interests & Passions
 
-- IoT technology innovation and practi
+- Innovation in IoT technologies and their practical applications
+- Building scalable, data-driven infrastructure solutions
+- Bridging hardware engineering and software automation
 <br>
 
 ##
