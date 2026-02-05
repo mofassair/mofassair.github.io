@@ -21,9 +21,6 @@ title: Portfolio in English
     <h1>
       MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
     </h1>
-    <p>
-      IoT & Infrastructure Engineer focused on building monitoring, energy systems and secure edge deployments
-    </p>
   </div>
   
   <!-- Right: Profile Photo -->
@@ -32,23 +29,11 @@ title: Portfolio in English
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;">
   </div>
 </div>
-<!-- Photo and Name -->
 
-<!-- Comment out 
-![document](documents/mixed/profile_photo.png)  
-
-### MOHAMMAD MOFASSAIR HOSSAIN BHUIYAN
-**IoT & Edge Systems Engineer | Electrical & Systems Specialist**
--->
-
-<br>
-
-### Contact Information
-**Email:** bhuiyan.mofassair@gmail.com  
+**Email:** bhuiyan.mofassair@gmail.com   
 **Website:** mofassair.github.io  
 **LinkedIn:** linkedin.com/in/mofassair  
 **GitHub:** github.com/mofassair
-
 
 <br>
 
