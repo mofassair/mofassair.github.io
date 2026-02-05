@@ -756,4 +756,3 @@ Gescanntes Zeugnis- und Zertifikatsmaterial kann in einem ergänzenden Portfolio
 
 *Portfolio zuletzt aktualisiert: Januar 2026*  
 *Erstellt am: 07. Januar 2026*  
-

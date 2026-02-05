@@ -35,7 +35,6 @@ I deliver reliable monitoring and automation solutions for energy and infrastruc
 **LinkedIn:** linkedin.com/in/mofassair  
 **GitHub:** github.com/mofassair
 
-<br>
 <hr style="margin: 3rem 0;">
 
 <!-- Portfolio Buttons -->
@@ -90,12 +89,15 @@ I deliver reliable monitoring and automation solutions for energy and infrastruc
 <br>
 
 <br>
+<br>
 
+<br>
+
+<br>
+
+<br>
 
 ---
-
-
-
 *Portfolio Last Updated: January 2026*  
 *Date Prepared: January 07, 2026*
 

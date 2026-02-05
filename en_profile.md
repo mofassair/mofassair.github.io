@@ -734,4 +734,3 @@ References and detailed project documentation available upon request. Scanned ce
 
 *Portfolio Last Updated: January 2026*  
 *Date Prepared: January 07, 2026*
-*Contact: bhuiyan.mofassair@gmail.com *
