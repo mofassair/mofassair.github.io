@@ -98,4 +98,4 @@ I deliver reliable monitoring and automation solutions for energy and infrastruc
 
 *Portfolio Last Updated: January 2026*  
 *Date Prepared: January 07, 2026*
-*Contact: bhuiyan.mofassair@gmail.com *
+
