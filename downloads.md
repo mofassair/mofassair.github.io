@@ -1,6 +1,6 @@
 ---
 layout: downloads
-title: downloads
+title: Downloads
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
