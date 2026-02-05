@@ -47,9 +47,9 @@ title: Portfolio in English
 
 ---
 
-I am an IoT and Edge Systems Engineer with over 7 years of experience in energy systems, building automation, and communication technologies. I specialize in designing, deploying, and maintaining multi-site LoRaWAN infrastructures, integrating BACnet and InfluxDB systems, and developing Python-based ETL pipelines for real-time data analytics. My expertise includes Dockerized edge deployments, network reliability, and secure remote connectivity using WireGuard VPN. With a strong foundation in electrical and electronic engineering, I am passionate about creating scalable, data-driven solutions that enhance energy efficiency, reliability, and sustainability.
+IoT and Edge Systems Engineer with 7+ years of experience working on energy systems, building automation, and communication infrastructures. I have been directly involved in the design, deployment, and operation of multi-site LoRaWAN networks, the integration of BACnet-based building automation systems, and the development of Python ETL pipelines for real-time and historical analytics using InfluxDB and Grafana.
 
-I have worked in diverse roles across IT operations, electrical systems engineering, and hardware design, supporting mission-critical environments in energy optimization, infrastructure, and renewable energy projects. My career spans Bangladesh and Germany, where I have led cross-functional teams, optimized systems for performance, and reduced operational costs through innovative automation and integration.
+My work includes building containerized edge deployments using Docker and implementing secure remote access using WireGuard VPN. With an academic background in electrical and electronic engineering, I have contributed to scalable and reliable monitoring and automation solutions for energy and infrastructure projects in both Germany and Bangladesh.
 
 <br>
 
@@ -57,48 +57,22 @@ I have worked in diverse roles across IT operations, electrical systems engineer
 
 ---
 
-### Technical Infrastructure & IoT
-- Multi-site LoRaWAN infrastructure design and deployment
-- IoT sensor ecosystem integration and optimization
-- BACnet building automation systems integration
-- Edge computing and distributed system architecture
-- Radio frequency (RF) site surveys and antenna calibration
-- Automated Device Rate (ADR) tuning and optimization
-- Multi-vendor LoRaWAN gateway configuration and management
+### IoT & Monitoring
+- LoRaWAN design/deployment, RF optimization, ADR tuning, multi-vendor gateways
+- BACnet integration, edge computing, sensor ecosystems
 
-### Software & Automation
-- Python-based ETL (Extract, Transform, Load) pipeline development
-- Automation scripting (Linux Bash, Shell automation)
-- Docker containerization and deployment frameworks
-- Git version control and CI/CD workflows
-- Database management (InfluxDB, SQL)
-- Real-time data visualization (Grafana dashboards)
-- WireGuard VPN mesh networking and configuration
+### Software & Data
+- Python ETL pipelines, Docker, Git CI/CD
+- InfluxDB time-series, Grafana dashboards
 
-### Electrical & Hardware Engineering
-- Circuit and block diagram design
-- Hardware validation and embedded system testing
-- Electrical schematics and wiring documentation
-- AutoCAD and P&ID (Process & Instrumentation Diagram) design
-- PSPICE and Proteus circuit simulation
-- Hardware troubleshooting and root-cause diagnostics
+### Networks & Security
+- WireGuard VPN mesh, TCP/IP LAN/WAN, monitoring/alerts
 
-### IT Operations & Support
-- Level-2 IT support and infrastructure management
-- Windows and Linux system administration
-- Network administration (TCP/IP, LAN/WAN, wireless protocols)
-- Microsoft Intune (UEM) device management
-- Hardware lifecycle management and procurement
-- Incident analysis and escalation support
-- ITIL-based ticket workflow management
+### Electrical/Hardware
+- Schematics/P&ID (AutoCAD), sensor validation, circuit sim (PSPICE)
 
-### Engineering Fundamentals
-- Renewable energy systems (solar, wind, LED efficiency)
-- Energy storage optimization
-- Network security and secure remote access
-- System-level monitoring and fault detection
-- Backup architecture and data integrity
-
+### Ops & IT
+- L2 support (Win/Linux), Intune, ITIL troubleshooting
 <br>
 
 ## Professional Experience Timeline
@@ -190,7 +164,9 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 > LoRaWAN, BACnet, InfluxDB, Grafana, Python, Linux/Bash, Docker, Git, WireGuard VPN, Network Architecture
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg)  
+  <a href="documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf">
+    <img src="documents/work_exp/exp_cert_teo_Arbeitszeugnis.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_teo_Arbeitszeugnis.pdf)
 
 
@@ -250,7 +226,9 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 > Ensured operational reliability and cost-efficiency for enterprise infrastructure supporting thousands of employees and critical business operations.
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_Summit.jpg)  
+  <a href="documents/work_exp/exp_cert_Summit.pdf">
+    <img src="documents/work_exp/exp_cert_Summit.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Summit.pdf)
 
 <br>
@@ -271,7 +249,9 @@ Early-stage engineering role focused on R&D, technical design, and international
 - Supported system design and feasibility studies
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_EZZY.jpg)  
+  <a href="documents/work_exp/exp_cert_EZZY.pdf">
+    <img src="documents/work_exp/exp_cert_EZZY.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_EZZY.pdf)
 
 
@@ -291,7 +271,9 @@ Hands-on exposure to electrical supply operations and distribution systems.
 - Supported field operations and system monitoring
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_Desco_Intern.jpg)  
+  <a href="documents/work_exp/exp_cert_Desco_Intern.pdf">
+    <img src="documents/work_exp/exp_cert_Desco_Intern.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_Desco_Intern.pdf)
 
 <br>
@@ -317,7 +299,9 @@ Technical specialist role developing and deploying renewable energy and automati
 - Demonstrated sustainability and energy independence
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/work_exp/exp_cert_E_Lab.jpg)  
+  <a href="documents/work_exp/exp_cert_E_Lab.pdf">
+    <img src="documents/work_exp/exp_cert_E_Lab.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/work_exp/exp_cert_E_Lab.pdf)
 
 <br>
@@ -346,7 +330,9 @@ Technical specialist role developing and deploying renewable energy and automati
 
 - **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
 
-  ![document](documents/academic/MEng_cert.jpg)  
+  <a href="documents/academic/MEng_cert.pdf">
+    <img src="documents/academic/MEng_cert.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/academic/MEng_cert.pdf)
 
 <br>
@@ -358,7 +344,9 @@ Technical specialist role developing and deploying renewable energy and automati
 - **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
 *Relevant <strong>Documents</strong> related to the activity:*
-  ![document](documents/academic/BSc_cert.jpg)  
+  <a href="documents/academic/BSc_cert.pdf">
+    <img src="documents/academic/BSc_cert.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/academic/BSc_cert.pdf)
 
 
@@ -379,7 +367,9 @@ Technical specialist role developing and deploying renewable energy and automati
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/CCNAv7.jpg)  
+  <a href="documents/online_course/CCNAv7.pdf">
+    <img src="documents/online_course/CCNAv7.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
 <!-- certificate and files -->
 
@@ -391,7 +381,9 @@ Technical specialist role developing and deploying renewable energy and automati
 <!-- certificate and files 
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/CCNAv7.jpg)  
+  <a href="documents/online_course/CCNAv7.pdf">
+    <img src="documents/online_course/CCNAv7.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/online_course/CCNAv7.pdf)
 certificate and files -->
 
@@ -403,7 +395,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/BACnet.jpg)  
+  <a href="documents/online_course/BACnet.pdf">
+    <img src="documents/online_course/BACnet.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/online_course/BACnet.pdf)
 <!-- certificate and files -->
 
@@ -419,7 +413,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/MITX_6.002x.jpg)  
+  <a href="documents/online_course/MITX_6.002x.pdf">
+    <img src="documents/online_course/MITX_6.002x.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/online_course/MITX_6.002x.pdf)
 <!-- certificate and files -->
 
@@ -431,7 +427,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/SolarEnergy.jpg)  
+  <a href="documents/online_course/SolarEnergy.pdf">
+    <img src="documents/online_course/SolarEnergy.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/online_course/SolarEnergy.pdf)
 <!-- certificate and files -->
 
@@ -441,7 +439,9 @@ certificate and files -->
 <!-- certificate and files -->
 *Relevant <strong>Documents</strong> related to the activity:*
 
-  ![document](documents/online_course/microcontroller.png)  
+  <a href="documents/online_course/microcontroller.pdf">
+    <img src="documents/online_course/microcontroller.png" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](documents/online_course/microcontroller.pdf)
 <!-- certificate and files -->
 
@@ -673,7 +673,9 @@ Book language: English
 <!-- certificate and files -->
 *lINK to the <strong>publication</strong> is as under:*
 
-  ![document](documents/mixed/publication_greenstreet.jpg)  
+  <a href="https://a.co/d/iMNvAEB">
+    <img src="documents/mixed/publication_greenstreet.jpg" alt="document" class="doc-thumb" />
+  </a>
   [>>**Download copy of the document**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->
 
