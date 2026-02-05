@@ -182,8 +182,9 @@ IoT infrastructure engineer responsible for mid-scale, multi-site energy and fac
 <br>
 <br>
 
-### IT Support Engineer (Freelance)
-**July 2020 – June 2022**
+### IT Support Engineer
+*Freelance, Germany* <br>
+*July 2020 – June 2022*
 
 #### Scope
 On-site Level-2 IT support for multinational corporate environments and automotive industry clients, providing desktop and infrastructure support in time-critical, high-availability settings.
@@ -203,8 +204,8 @@ On-site Level-2 IT support for multinational corporate environments and automoti
 <br>
 
 ### Deputy Manager
-**Summit Corporation Limited, Dhaka, Bangladesh**  
-**March 2015 – June 2020**
+*Summit Corporation Limited, Dhaka, Bangladesh*  
+*March 2015 – June 2020*
 
 #### Scope
 Senior technical operations manager coordinating large-scale infrastructure support for a major Bangladeshi enterprise with complex electro-mechanical and IT systems.
@@ -244,8 +245,8 @@ Senior technical operations manager coordinating large-scale infrastructure supp
 <br>
 
 ### Assistant Engineer
-**EZZY Group, Dhaka, Bangladesh**  
-**November 2014 – February 2015**
+*EZZY Group, Dhaka, Bangladesh*  
+*November 2014 – February 2015*
 
 #### Scope
 Early-stage engineering role focused on R&D, technical design, and international collaboration.
@@ -268,8 +269,8 @@ Early-stage engineering role focused on R&D, technical design, and international
 <br>
 
 ### Intern
-**Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesh**  
-**March 2014 – April 2014**
+*Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesh*  
+*March 2014 – April 2014*
 
 #### Scope
 Hands-on exposure to electrical supply operations and distribution systems.
@@ -289,8 +290,8 @@ Hands-on exposure to electrical supply operations and distribution systems.
 <br>
 
 ### Executive Expert
-**E Lab Bangladesh Limited, Dhaka, Bangladesh**  
-**November 2013 – November 2014**
+*E Lab Bangladesh Limited, Dhaka, Bangladesh*  
+*November 2013 – November 2014*
 
 #### Scope
 Technical specialist role developing and deploying renewable energy and automation solutions.
@@ -324,9 +325,9 @@ Technical specialist role developing and deploying renewable energy and automati
 **Technical University of Cologne (TH Köln), Cologne, Germany**  
 **March 2020 – Present**
 
-- **Status:** 2 modules and thesis pending
-- **Research Focus:** IoT, Networks, Edge Computing
-- **Relevant Coursework:** Advanced network protocols, distributed systems, wireless communication, system architecture
+- Status: 2 modules and thesis pending
+- Research Focus: IoT, Networks, Edge Computing
+- Relevant Coursework: Advanced network protocols, distributed systems, wireless communication, system architecture
 
 *Relevant <strong>Documents</strong> related to the activity:*
   [>>**Download**<<](documents/academic/Th_koln_transcript.pdf)
@@ -337,7 +338,7 @@ Technical specialist role developing and deploying renewable energy and automati
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
 **2018**
 
-- **Key Areas:** Network architecture, communication systems, signal processing, telecommunications engineering
+- Key Areas: Network architecture, communication systems, signal processing, telecommunications engineering
 
 *Relevant <strong>Documents</strong> related to the activity:*
 <a href="documents/academic/MEng_cert.pdf">
@@ -351,7 +352,7 @@ Technical specialist role developing and deploying renewable energy and automati
 **American International University-Bangladesh (AIUB), Dhaka, Bangladesh**  
 **2014**
 
-- **Key Areas:** Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
+- Key Areas: Circuit design, electronics, control systems, power systems, electromagnetics, embedded systems
 
 *Relevant <strong>Documents</strong> related to the activity:*
   <a href="documents/academic/BSc_cert.pdf">
@@ -680,7 +681,6 @@ Book language: English
   </a>
   [>>**Download**<<](https://a.co/d/iMNvAEB)
 <!-- certificate and files -->
-
 <br>
 
 ## Additional Information
@@ -690,32 +690,26 @@ Book language: English
 - The Institution of Engineers, Bangladesh (IEB) – Member
 - Technical University of Cologne (TH Köln) – Active postgraduate student
 - Cisco Learning Network – CCNA certified professional
-
 <br>
 
 ### Honors & awards
 - Best Cadet Award
 Issued by Bangladesh National Cadet Corps (BNCC) · Jan 2003
-
-
 <br>
 
 ### Professional Development Goals
 - Complete Master's degree in Communication Systems and Networks (TH Köln)
 - Advance German language proficiency to professional fluency (currently B1 level)
 - Expand expertise in edge AI and machine learning integration with IoT systems
-
-
 <br>
 
-### Interests & Passions
-- IoT technology innovation and practical applications
-- Bridging hardware engineering and software automation
+## Interests & Passions
 
+- IoT technology innovation and practi
 <br>
 
-## References
-
+##
+References
 References and detailed project documentation available upon request. Scanned certificates and experience letters can be provided in a supplementary portfolio folder.
 
 <br>
