@@ -3,6 +3,16 @@ layout: default
 title: Portfolio auf Deutsch
 ---
 
+<style>
+.doc-thumb {
+  width: 180px;
+  height: auto;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  display: block;
+}
+</style>
+
 <!-- Photo and Name -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem;">
 
@@ -97,8 +107,8 @@ Ich habe in unterschiedlichen Rollen in den Bereichen IT-Betrieb, Elektrotechnik
 ---
 
 ### IT-Fachkraft (IoT & Edge Systems)
-**Teo-tschakrow Energie Optimierung, Köln, Deutschland**  
-**Juni 2022 – heute**
+*Teo-tschakrow Energie Optimierung, Köln, Deutschland*  
+*Juni 2022 – heute*
 
 #### Aufgabenbereich
 IoT-Infrastrukturingenieur für mittelgroße, standortübergreifende Energie- und Gebäudemonitoring-Systeme zur Unterstützung kritischer öffentlicher und staatlicher Infrastrukturen.
@@ -173,8 +183,9 @@ IoT-Infrastrukturingenieur für mittelgroße, standortübergreifende Energie- un
 <br>
 <br>
 
-### IT Support Engineer (Freelance)
-**Juli 2020 – Juni 2022**
+### IT Support Engineer
+*Freelance, Deutschland* <br>
+*Juli 2020 – Juni 2022*
 
 #### Aufgabenbereich
 Vor-Ort-2nd-Level-IT-Support für multinationale Unternehmensumgebungen sowie Kunden aus der Automobilindustrie in zeitkritischen und hochverfügbaren Betriebsumgebungen.
@@ -194,8 +205,8 @@ Vor-Ort-2nd-Level-IT-Support für multinationale Unternehmensumgebungen sowie Ku
 <br>
 
 ### Deputy Manager
-**Summit Corporation Limited, Dhaka, Bangladesch**  
-**März 2015 – Juni 2020**
+*Summit Corporation Limited, Dhaka, Bangladesch*  
+*März 2015 – Juni 2020*
 
 #### Aufgabenbereich
 Leitende technische Rolle im operativen Betrieb zur Koordination umfangreicher Infrastrukturunterstützung für ein großes Unternehmen mit komplexen elektro-mechanischen und IT-Systemen.
@@ -235,8 +246,8 @@ Leitende technische Rolle im operativen Betrieb zur Koordination umfangreicher I
 <br>
 
 ### Assistant Engineer
-**EZZY Group, Dhaka, Bangladesch**  
-**November 2014 – Februar 2015**
+*EZZY Group, Dhaka, Bangladesch*  
+*November 2014 – Februar 2015*
 
 #### Aufgabenbereich
 Einstiegsposition im Bereich Engineering mit Fokus auf Forschung & Entwicklung, technisches Design und internationale Zusammenarbeit.
@@ -259,8 +270,8 @@ Einstiegsposition im Bereich Engineering mit Fokus auf Forschung & Entwicklung, 
 <br>
 
 ### Praktikant
-**Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesch**  
-**März 2014 – April 2014**
+*Dhaka Electric Supply Company Ltd. (DESCO), Dhaka, Bangladesch*  
+*März 2014 – April 2014*
 
 #### Aufgabenbereich
 Praktische Einblicke in den Betrieb von Energieversorgungs- und Verteilnetzen.
@@ -280,8 +291,8 @@ Praktische Einblicke in den Betrieb von Energieversorgungs- und Verteilnetzen.
 <br>
 
 ### Executive Expert
-**E Lab Bangladesh Limited, Dhaka, Bangladesch**  
-**November 2013 – November 2014**
+*E Lab Bangladesh Limited, Dhaka, Bangladesch*  
+*November 2013 – November 2014*
 
 #### Aufgabenbereich
 Technische Fachrolle zur Entwicklung und Umsetzung von Lösungen im Bereich erneuerbare Energien und Automatisierung.
