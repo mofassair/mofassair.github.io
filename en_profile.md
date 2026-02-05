@@ -388,14 +388,15 @@ Technical specialist role developing and deploying renewable energy and automati
 - Practical, project-based LoRaWAN training from industry experts
 - Gateway configuration, sensor integration, real-world deployment scenarios
 - Advanced topics in LoRaWAN network design and optimization
-<!-- certificate and files 
+<!--
 *Relevant <strong>Documents</strong> related to the activity:*
 
   <a href="documents/online_course/CCNAv7.pdf">
     <img src="documents/online_course/CCNAv7.jpg" alt="document" style="width: 180px; height: auto; object-fit: cover; border: 1px solid #ccc; display: block;" />
   </a>
   [>>**Download**<<](documents/online_course/CCNAv7.pdf)
-certificate and files -->
+
+-->
 
 **A Practical Introduction to the BACnet Protocol**  
 *Udemy, 2023*
